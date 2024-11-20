@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Playing Time,Playing Time,Playing Time,Playing Time,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Penalty Kicks,Penalty Kicks,Penalty Kicks,Penalty Kicks,Penalty Kicks,Unnamed: 26_level_0
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,GA,GA90,SoTA,Saves,Save%,W,D,L,CS,CS%,PKatt,PKA,PKsv,PKm,Save%,Matches
+1,Emil Audero,it ITA,GK,Como,27-256,1997,3,3,270,3.0,6,2.00,12,6,66.7,2,1,0,0,0.0,2,2,0,0,0.0,Matches
+2,Elia Caprile,it ITA,GK,Napoli,23-036,2001,2,1,145,1.6,0,0.00,2,2,100.0,1,0,0,2,200.0,0,0,0,0,,Matches
+3,Marco Carnesecchi,it ITA,GK,Atalanta,24-091,2000,5,5,450,5.0,12,2.40,23,13,47.8,1,1,3,0,0.0,0,0,0,0,,Matches
+4,Leandro Chichizola,ar ARG,GK,Parma,34-187,1990,1,1,90,1.0,3,3.00,6,3,50.0,0,0,1,0,0.0,0,0,0,0,,Matches
+5,Michele Di Gregorio,it ITA,GK,Juventus,27-065,1997,4,4,360,4.0,0,0.00,3,3,100.0,2,2,0,4,100.0,0,0,0,0,,Matches
+6,Wladimiro Falcone,it ITA,GK,Lecce,29-171,1995,6,6,540,6.0,11,1.83,27,16,66.7,1,2,3,2,33.3,2,2,0,0,0.0,Matches
+7,David de Gea,es ESP,GK,Fiorentina,33-328,1990,3,3,270,3.0,4,1.33,14,10,71.4,1,1,1,1,33.3,0,0,0,0,,Matches
+8,Pierluigi Gollini,it ITA,GK,Genoa,29-196,1995,6,6,540,6.0,10,1.67,24,13,66.7,1,2,3,1,16.7,3,2,1,0,33.3,Matches
+9,Jesse Joronen,fi FIN,GK,Venezia,31-193,1993,6,6,540,6.0,10,1.67,32,23,78.1,1,1,4,2,33.3,3,3,0,0,0.0,Matches
+10,Mike Maignan,fr FRA,GK,Milan,29-089,1995,6,6,540,6.0,7,1.17,24,18,70.8,3,2,1,2,33.3,0,0,0,0,,Matches
+11,Alex Meret,it ITA,GK,Napoli,27-192,1997,5,5,395,4.4,4,0.91,13,9,76.9,3,1,1,2,40.0,1,1,0,0,0.0,Matches
+12,Vanja Milinković-Savić,rs SRB,GK,Torino,27-223,1997,5,5,450,5.0,5,1.00,26,20,80.8,3,2,0,2,40.0,1,0,1,0,100.0,Matches
+13,Lorenzo Montipò,it ITA,GK,Hellas Verona,28-223,1996,6,6,540,6.0,11,1.83,31,20,67.7,2,0,4,2,33.3,2,1,0,1,0.0,Matches
+14,Juan Musso,ar ARG,GK,Atalanta,30-147,1994,1,1,90,1.0,0,0.00,4,4,100.0,1,0,0,1,100.0,0,0,0,0,,Matches
+15,Maduka Okoye,ng NGA,GK,Udinese,25-033,1999,6,6,540,6.0,10,1.67,32,22,75.0,3,1,2,1,16.7,3,2,0,1,0.0,Matches
+16,Alberto Paleari,it ITA,GK,Torino,32-032,1992,1,1,90,1.0,3,3.00,7,4,57.1,0,0,1,0,0.0,0,0,0,0,,Matches
+17,Mattia Perin,it ITA,GK,Juventus,31-325,1992,2,2,180,2.0,0,0.00,5,5,100.0,1,1,0,2,100.0,0,0,0,0,,Matches
+18,Semuel Pizzignacco,it ITA,GK,Monza,23-029,2001,2,2,180,2.0,1,0.50,3,2,66.7,0,1,1,1,50.0,0,0,0,0,,Matches
+19,Ivan Provedel,it ITA,GK,Lazio,30-197,1994,6,6,540,6.0,10,1.67,23,13,65.2,3,1,2,0,0.0,2,2,0,0,0.0,Matches
+20,Federico Ravaglia,it ITA,GK,Bologna,24-324,1999,1,1,90,1.0,1,1.00,3,2,66.7,1,0,0,0,0.0,0,0,0,0,,Matches
+21,Pepe Reina,es ESP,GK,Como,42-030,1982,3,3,270,3.0,5,1.67,13,8,61.5,0,1,2,0,0.0,0,0,0,0,,Matches
+22,Simone Scuffet,it ITA,GK,Cagliari,28-122,1996,5,5,450,5.0,8,1.60,19,11,57.9,0,2,3,1,20.0,0,0,0,0,,Matches
+23,Łukasz Skorupski,pl POL,GK,Bologna,33-148,1991,5,5,450,5.0,8,1.60,17,9,52.9,0,4,1,0,0.0,1,0,1,0,100.0,Matches
+24,Yann Sommer,ch SUI,GK,Inter,35-288,1988,6,6,540,6.0,7,1.17,25,17,72.0,3,2,1,2,33.3,1,0,1,0,100.0,Matches
+25,Zion Suzuki,jp JPN,GK,Parma,22-040,2002,3,3,270,3.8,4,1.33,20,16,80.0,1,2,1,0,0.0,0,0,0,0,,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,GA,GA90,SoTA,Saves,Save%,W,D,L,CS,CS%,PKatt,PKA,PKsv,PKm,Save%,Matches
+26,Mile Svilar,rs SRB,GK,Roma,25-034,1999,6,6,540,6.0,4,0.67,22,18,86.4,2,3,1,3,50.0,1,1,0,0,0.0,Matches
+27,Pietro Terracciano,it ITA,GK,Fiorentina,34-206,1990,3,3,270,3.0,3,1.00,13,10,76.9,0,3,0,1,33.3,0,0,0,0,,Matches
+28,Stefano Turati,it ITA,GK,Monza,23-025,2001,4,4,360,4.0,7,1.75,18,11,61.1,0,2,2,0,0.0,0,0,0,0,,Matches
+29,Devis Vásquez,co COL,GK,Empoli,26-141,1998,6,6,540,6.0,2,0.33,16,14,87.5,2,4,0,4,66.7,0,0,0,0,,Matches

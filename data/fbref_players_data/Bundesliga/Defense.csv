@@ -1,0 +1,388 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Unnamed: 7_level_0,Tackles,Tackles,Tackles,Tackles,Tackles,Challenges,Challenges,Challenges,Challenges,Blocks,Blocks,Blocks,Unnamed: 20_level_0,Unnamed: 21_level_0,Unnamed: 22_level_0,Unnamed: 23_level_0,Unnamed: 24_level_0
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Matches
+1,Junior Adamu,at AUT,FW,Freiburg,23-116,2001,4.5,0,0,0,0,0,0,0,,0,3,0,3,2,2,4,0,Matches
+2,Karim Adeyemi,de GER,"FW,MF",Dortmund,22-256,2002,3.4,7,5,3,1,3,2,2,100.0,0,6,0,6,1,8,0,0,Matches
+3,Amine Adli,ma MAR,"MF,FW",Leverkusen,24-143,2000,1.4,4,2,0,1,3,1,2,50.0,1,2,0,2,0,4,2,0,Matches
+4,Oladapo Afolayan,eng ENG,FW,St. Pauli,26-231,1998,3.1,4,2,1,2,1,1,2,50.0,1,2,0,2,2,6,3,0,Matches
+5,Felix Agu,de GER,DF,Werder Bremen,25-003,1999,4.7,7,3,4,2,1,4,6,66.7,2,3,1,2,5,12,13,0,Matches
+6,Kevin Akpoguma,ng NGA,DF,Hoffenheim,29-164,1995,5.0,10,2,8,1,1,5,7,71.4,2,16,11,5,1,11,21,0,Matches
+7,Andreas Albers,dk DEN,FW,St. Pauli,34-191,1990,0.3,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,1,0,Matches
+8,Skelly Alvero,fr FRA,MF,Werder Bremen,22-149,2002,0.5,3,3,3,0,0,1,1,100.0,0,2,0,2,1,4,5,0,Matches
+9,Aurele Amenda,ch SUI,DF,Eint Frankfurt,21-061,2003,0.6,0,0,0,0,0,0,0,,0,2,2,0,1,1,4,0,Matches
+10,Nadiem Amiri,de GER,MF,Mainz 05,27-339,1996,3.3,5,1,3,2,0,0,4,0.0,4,1,1,0,2,7,7,0,Matches
+11,Mohamed Amoura,dz ALG,"FW,MF",Wolfsburg,24-144,2000,2.4,2,1,1,0,1,0,0,,0,3,0,3,0,2,0,0,Matches
+12,Robert Andrich,de GER,MF,Leverkusen,30-008,1994,2.8,5,2,1,4,0,3,3,100.0,0,2,0,2,3,8,6,0,Matches
+13,Waldemar Anton,de GER,DF,Dortmund,28-072,1996,5.0,9,7,6,2,1,3,4,75.0,1,10,7,3,6,15,22,1,Matches
+14,Maximilian Arnold,de GER,MF,Wolfsburg,30-126,1994,4.9,9,7,2,5,2,3,7,42.9,4,4,3,1,2,11,9,0,Matches
+15,Jann-Fiete Arp,de GER,"FW,MF",Holstein Kiel,24-268,2000,1.5,4,4,2,1,1,1,2,50.0,1,1,0,1,0,4,0,0,Matches
+16,Arthur,br BRA,DF,Leverkusen,21-197,2003,0.1,0,0,0,0,0,0,0,,0,0,0,0,1,1,1,0,Matches
+17,Noah Atubolu,de GER,GK,Freiburg,22-128,2002,3.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,2,1,Matches
+18,Ridle Baku,de GER,"FW,MF",Wolfsburg,26-175,1998,3.6,6,4,1,3,2,3,8,37.5,5,9,0,9,4,10,4,0,Matches
+19,Aliou Baldé,gn GUI,"MF,FW",Bochum,21-293,2002,1.0,1,1,1,0,0,0,0,,0,2,0,2,0,1,0,0,Matches
+20,Samuel Bamba,de GER,"FW,MF",Bochum,20-230,2004,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+21,Scott Banks,sct SCO,FW,St. Pauli,23-004,2001,0.2,0,0,0,0,0,0,0,,0,0,0,0,1,1,1,0,Matches
+22,Aymen Barkok,ma MAR,MF,Mainz 05,26-132,1998,0.8,2,1,1,1,0,1,1,100.0,0,1,1,0,2,4,0,0,Matches
+23,Maximilian Bauer,de GER,DF,Augsburg,24-234,2000,2.8,5,3,1,3,1,1,4,25.0,3,5,1,4,2,7,17,1,Matches
+24,Oliver Baumann,de GER,GK,Hoffenheim,34-120,1990,5.0,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,4,0,Matches
+25,Christoph Baumgartner,at AUT,"MF,DF",RB Leipzig,25-060,1999,1.2,2,2,1,1,0,2,6,33.3,4,3,1,2,0,2,1,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Matches
+26,Adrian Beck,de GER,FW,Heidenheim,27-113,1997,2.3,3,2,1,2,0,0,5,0.0,5,9,0,9,3,6,5,0,Matches
+27,Timo Becker,de GER,DF,Holstein Kiel,27-189,1997,5.0,9,5,6,3,0,5,7,71.4,2,6,5,1,3,12,11,0,Matches
+28,Kevin Behrens,de GER,FW,Wolfsburg,33-240,1991,0.5,1,1,0,1,0,0,1,0.0,1,0,0,0,0,1,0,0,Matches
+29,Maximilian Beier,de GER,"FW,MF",Dortmund,21-349,2002,1.5,2,1,0,1,1,1,3,33.3,2,1,0,1,0,2,2,0,Matches
+30,Stefan Bell,de GER,DF,Mainz 05,33-037,1991,1.8,4,2,3,1,0,0,2,0.0,2,1,1,0,5,9,12,0,Matches
+31,Jeanuël Belocian,fr FRA,DF,Leverkusen,19-226,2005,0.5,1,1,1,0,0,1,1,100.0,0,0,0,0,0,1,2,0,Matches
+32,László Bénes,sk SVK,"MF,FW",Union Berlin,27-021,1997,1.5,0,0,0,0,0,0,1,0.0,1,1,1,0,0,0,1,0,Matches
+33,Ramy Bensebaini,dz ALG,"DF,FW",Dortmund,29-167,1995,1.9,1,0,1,0,0,0,3,0.0,3,7,0,7,3,4,5,1,Matches
+34,Mergim Berisha,de GER,FW,Hoffenheim,26-142,1998,2.4,1,1,1,0,0,0,2,0.0,2,0,0,0,0,1,2,0,Matches
+35,Alexander Bernhardsson,se SWE,"DF,FW",Holstein Kiel,26-022,1998,1.7,1,1,0,0,1,1,1,100.0,0,2,0,2,0,1,2,0,Matches
+36,Matúš Bero,sk SVK,MF,Bochum,29-024,1995,4.7,9,5,4,1,4,5,14,35.7,9,10,1,9,1,10,6,1,Matches
+37,El Bilal Touré,ml MLI,"FW,MF",Stuttgart,22-363,2001,0.7,2,1,0,1,1,2,2,100.0,0,0,0,0,0,2,0,0,Matches
+38,Tom Bischof,de GER,MF,Hoffenheim,19-094,2005,2.1,9,6,2,7,0,3,5,60.0,2,4,2,2,1,10,6,0,Matches
+39,Leonardo Bittencourt,de GER,MF,Werder Bremen,30-286,1993,0.0,0,0,0,0,0,0,0,,0,1,0,1,0,0,0,0,Matches
+40,Myron Boadu,nl NED,"FW,MF",Bochum,23-260,2001,2.9,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,3,0,Matches
+41,Sacha Boey,fr FRA,DF,Bayern Munich,24-017,2000,1.4,3,0,2,0,1,2,3,66.7,1,1,0,1,0,3,4,0,Matches
+42,Victor Boniface,ng NGA,FW,Leverkusen,23-282,2000,3.8,2,2,0,2,0,1,1,100.0,0,1,0,1,0,2,3,0,Matches
+43,Sebastiaan Bornauw,be BEL,DF,Wolfsburg,25-192,1999,5.0,4,2,1,2,1,1,4,25.0,3,8,8,0,5,9,17,0,Matches
+44,Carlo Boukhalfa,ma MAR,MF,St. Pauli,25-150,1999,2.6,6,1,0,5,1,0,2,0.0,2,3,0,3,3,9,2,0,Matches
+45,Julian Brandt,de GER,MF,Dortmund,28-151,1996,4.2,2,0,1,1,0,0,1,0.0,1,1,0,1,0,2,3,0,Matches
+46,Tim Breithaupt,de GER,MF,Augsburg,22-236,2002,1.3,1,1,0,1,0,0,4,0.0,4,1,0,1,2,3,0,0,Matches
+47,Maximilian Breunig,de GER,"FW,MF",Heidenheim,24-047,2000,2.4,3,2,0,2,1,2,3,66.7,1,4,2,2,1,4,3,0,Matches
+48,Moritz Broschinski,de GER,FW,Bochum,24-007,2000,2.8,3,2,1,2,0,0,2,0.0,2,3,0,3,0,3,4,0,Matches
+49,Jacob Bruun Larsen,dk DEN,"DF,FW",Hoffenheim,26-011,1998,1.0,1,0,1,0,0,1,2,50.0,1,3,0,3,1,2,1,0,Matches
+50,Marius Bülter,de GER,FW,Hoffenheim,31-185,1993,4.0,5,5,1,3,1,5,6,83.3,1,1,1,0,1,6,2,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Matches
+51,Jonathan Burkardt,de GER,"FW,MF",Mainz 05,24-081,2000,5.0,0,0,0,0,0,0,1,0.0,1,1,0,1,0,0,6,0,Matches
+52,Marnon Busch,de GER,DF,Heidenheim,29-297,1994,1.7,1,0,0,1,0,1,2,50.0,1,2,2,0,1,2,6,0,Matches
+53,Anthony Caci,fr FRA,DF,Mainz 05,27-091,1997,4.2,4,2,1,2,1,2,4,50.0,2,5,0,5,4,8,12,1,Matches
+54,Emre Can,de GER,"MF,DF",Dortmund,30-262,1994,3.2,4,1,2,2,0,2,5,40.0,3,3,1,2,2,6,7,1,Matches
+55,Julian Chabot,de GER,DF,Stuttgart,26-231,1998,4.8,8,6,7,1,0,4,5,80.0,1,3,1,2,9,17,25,0,Matches
+56,El Chadaille Bitshiabu,fr FRA,DF,RB Leipzig,19-137,2005,1.1,5,3,1,4,0,3,4,75.0,1,1,1,0,3,8,5,1,Matches
+57,Fares Chaïbi,dz ALG,"FW,MF",Eint Frankfurt,21-307,2002,3.1,4,2,2,0,2,2,4,50.0,2,5,0,5,3,7,7,0,Matches
+58,Anrie Chase,jp JPN,DF,Stuttgart,20-190,2004,2.5,2,0,0,2,0,0,0,,0,5,3,2,5,7,10,0,Matches
+59,Fabio Chiarodia,it ITA,DF,Gladbach,19-117,2005,0.0,1,1,1,0,0,1,1,100.0,0,0,0,0,0,1,0,0,Matches
+60,Nnamdi Collins,de GER,DF,Eint Frankfurt,20-264,2004,0.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+61,Kingsley Coman,fr FRA,"FW,MF",Bayern Munich,28-109,1996,2.3,7,3,3,1,3,3,3,100.0,0,3,0,3,1,8,5,0,Matches
+62,Sirlord Conteh,de GER,"FW,DF",Heidenheim,28-083,1996,1.4,3,2,2,1,0,1,1,100.0,0,0,0,0,0,3,1,0,Matches
+63,Yan Couto,br BRA,DF,Dortmund,22-119,2002,1.6,2,1,2,0,0,2,5,40.0,3,4,0,4,1,3,3,0,Matches
+64,Tomáš Čvančara,cz CZE,"FW,MF",Gladbach,24-048,2000,0.9,1,1,0,1,0,1,1,100.0,0,2,1,1,0,1,1,0,Matches
+65,Mahmoud Dahoud,de GER,MF,Eint Frankfurt,28-273,1996,0.6,1,0,1,0,0,0,0,,0,0,0,0,0,1,0,0,Matches
+66,Bence Dárdai,de GER,FW,Wolfsburg,18-250,2006,0.1,0,0,0,0,0,0,0,,0,0,0,0,1,1,0,0,Matches
+67,Lukas Daschner,de GER,"MF,FW",Bochum,25-365,1998,2.0,1,1,0,0,1,0,5,0.0,5,3,0,3,0,1,3,0,Matches
+68,Alphonso Davies,ca CAN,DF,Bayern Munich,23-333,2000,3.3,5,1,2,1,2,4,4,100.0,0,3,0,3,2,7,4,0,Matches
+69,Olivier Deman,be BEL,DF,Werder Bremen,24-177,2000,0.2,2,1,0,2,0,1,2,50.0,1,0,0,0,0,2,2,0,Matches
+70,Ermedin Demirović,ba BIH,FW,Stuttgart,26-189,1998,3.6,1,1,0,1,0,0,1,0.0,1,3,0,3,0,1,0,0,Matches
+71,Justin Diehl,de GER,DF,Stuttgart,19-308,2004,0.3,0,0,0,0,0,0,0,,0,2,0,2,0,0,0,0,Matches
+72,Eric Dier,eng ENG,DF,Bayern Munich,30-259,1994,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0,Matches
+73,Junior Dina Ebimbe,fr FRA,"FW,MF",Eint Frankfurt,23-314,2000,1.0,0,0,0,0,0,0,1,0.0,1,2,0,2,2,2,3,0,Matches
+74,Eren Dinkçi,de GER,MF,Freiburg,22-292,2001,2.1,2,1,0,1,1,0,4,0.0,4,4,1,3,1,3,0,0,Matches
+75,Ritsu Doan,jp JPN,FW,Freiburg,26-106,1998,4.6,10,9,6,3,1,6,9,66.7,3,9,0,9,3,13,3,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Matches
+76,Danilho Doekhi,nl NED,DF,Union Berlin,26-092,1998,5.0,6,4,3,1,2,3,5,60.0,2,8,2,6,3,9,16,0,Matches
+77,Niklas Dorsch,de GER,MF,Augsburg,26-259,1998,0.4,0,0,0,0,0,0,0,,0,1,0,1,0,0,0,0,Matches
+78,Niklas Dorsch,de GER,MF,Heidenheim,26-259,1998,1.4,0,0,0,0,0,0,1,0.0,1,3,0,3,0,0,2,0,Matches
+79,Patrick Drewes,de GER,GK,Bochum,31-239,1993,5.0,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,5,1,Matches
+80,Tim Drexler,de GER,DF,Hoffenheim,19-208,2005,3.5,17,7,11,6,0,9,12,75.0,3,6,4,2,1,18,7,0,Matches
+81,Marvin Ducksch,de GER,FW,Werder Bremen,30-207,1994,4.1,3,2,0,2,1,0,4,0.0,4,2,0,2,0,3,7,0,Matches
+82,Julien Duranville,be BEL,FW,Dortmund,18-148,2006,0.3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+83,Adam Dźwigała,pl POL,"DF,MF",St. Pauli,29-005,1995,1.0,4,1,3,1,0,2,3,66.7,1,0,0,0,0,4,3,0,Matches
+84,Johannes Eggestein,de GER,FW,St. Pauli,26-145,1998,4.4,0,0,0,0,0,0,0,,0,1,0,1,0,0,2,0,Matches
+85,Maximilian Eggestein,de GER,MF,Freiburg,27-297,1996,4.7,6,4,1,4,1,1,4,25.0,3,3,0,3,10,16,6,0,Matches
+86,Hugo Ekitike,fr FRA,FW,Eint Frankfurt,22-102,2002,3.2,4,1,2,1,1,2,2,100.0,0,2,0,2,3,7,3,0,Matches
+87,Nico Elvedi,ch SUI,DF,Gladbach,28-000,1996,5.0,9,5,4,2,3,6,6,100.0,0,10,8,2,8,17,18,0,Matches
+88,Arne Engels,be BEL,"MF,FW",Augsburg,21-022,2003,0.9,0,0,0,0,0,0,0,,0,1,1,0,0,0,0,0,Matches
+89,Patrick Erras,de GER,DF,Holstein Kiel,29-253,1995,2.5,4,3,3,1,0,1,7,14.3,6,5,4,1,2,6,18,0,Matches
+90,Samuel Essende,cd COD,FW,Augsburg,26-251,1998,3.6,0,0,0,0,0,0,0,,0,3,1,2,0,0,1,0,Matches
+91,Kilian Fischer,de GER,DF,Wolfsburg,23-354,2000,5.0,16,12,12,2,2,12,26,46.2,14,10,0,10,5,21,16,1,Matches
+92,Jonas Föhrenbach,de GER,"DF,FW",Heidenheim,28-248,1996,5.0,10,9,5,5,0,5,8,62.5,3,5,1,4,6,16,14,0,Matches
+93,Marco Friedl,at AUT,DF,Werder Bremen,26-198,1998,2.7,6,5,3,3,0,2,4,50.0,2,2,2,0,5,11,15,0,Matches
+94,Marvin Friedrich,de GER,FW,Gladbach,28-292,1995,0.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+95,Jeremie Frimpong,nl NED,DF,Leverkusen,23-295,2000,3.7,6,5,4,1,1,4,10,40.0,6,4,0,4,4,10,2,0,Matches
+96,Chris Führich,de GER,"FW,MF",Stuttgart,26-265,1998,1.9,2,2,0,1,1,2,3,66.7,1,0,0,0,0,2,3,0,Matches
+97,Aleix García,es ESP,MF,Leverkusen,27-094,1997,2.1,3,0,1,1,1,2,3,66.7,1,2,0,2,1,4,2,0,Matches
+98,Lutsharel Geertruida,nl NED,DF,RB Leipzig,24-074,2000,3.0,6,4,1,5,0,2,7,28.6,5,1,0,1,3,9,9,0,Matches
+99,Dennis Geiger,de GER,MF,Hoffenheim,26-112,1998,1.9,6,5,2,3,1,3,5,60.0,2,1,0,1,1,7,0,0,Matches
+100,Valentin Gendrey,fr FRA,"DF,FW",Hoffenheim,24-101,2000,1.3,2,1,1,1,0,1,1,100.0,0,0,0,0,2,4,4,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Matches
+101,Yannick Gerhardt,de GER,"FW,MF",Wolfsburg,30-201,1994,0.5,1,1,1,0,0,1,1,100.0,0,1,0,1,3,4,1,0,Matches
+102,Max Geschwill,de GER,DF,Holstein Kiel,23-085,2001,2.9,6,5,2,4,0,4,5,80.0,1,1,1,0,5,11,9,0,Matches
+103,Dimitris Giannoulis,gr GRE,DF,Augsburg,28-349,1995,4.8,9,6,5,3,1,8,12,66.7,4,7,1,6,9,18,8,0,Matches
+104,Armin Gigovic,ba BIH,MF,Holstein Kiel,22-177,2002,2.0,2,1,2,0,0,1,4,25.0,3,1,0,1,3,5,4,0,Matches
+105,Benedikt Gimber,de GER,DF,Heidenheim,27-224,1997,5.0,12,10,9,3,0,6,8,75.0,2,14,3,11,6,18,27,0,Matches
+106,Matthias Ginter,de GER,DF,Freiburg,30-255,1994,2.7,4,2,1,2,1,3,3,100.0,0,2,2,0,0,4,4,0,Matches
+107,Jamie Gittens,eng ENG,"FW,DF",Dortmund,20-053,2004,2.5,6,2,1,3,2,0,1,0.0,1,3,0,3,2,8,0,0,Matches
+108,Serge Gnabry,de GER,"FW,MF",Bayern Munich,29-078,1995,3.6,5,5,3,1,1,3,6,50.0,3,2,0,2,3,8,2,0,Matches
+109,Leon Goretzka,de GER,DF,Bayern Munich,29-237,1995,0.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,2,0,Matches
+110,Robin Gosens,de GER,DF,Union Berlin,30-087,1994,1.0,0,0,0,0,0,0,3,0.0,3,1,0,1,1,1,2,0,Matches
+111,Mario Götze,de GER,"FW,MF",Eint Frankfurt,32-119,1992,2.5,3,3,1,2,0,1,4,25.0,3,2,0,2,1,4,2,0,Matches
+112,Jeffrey Gouweleeuw,nl NED,DF,Augsburg,33-082,1991,5.0,5,3,2,1,2,3,7,42.9,4,5,1,4,4,9,19,0,Matches
+113,Kamil Grabara,pl POL,GK,Wolfsburg,25-266,1999,5.0,0,0,0,0,0,0,1,0.0,1,1,0,1,0,0,2,0,Matches
+114,Michael Gregoritsch,at AUT,FW,Freiburg,30-165,1994,0.2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+115,Vincenzo Grifo,it ITA,"FW,MF",Freiburg,31-176,1993,4.5,1,1,1,0,0,0,4,0.0,4,3,1,2,0,1,1,0,Matches
+116,Florian Grillitsch,at AUT,"MF,DF",Hoffenheim,29-054,1995,2.3,6,5,3,2,1,3,3,100.0,0,2,2,0,1,7,8,0,Matches
+117,Álex Grimaldo,es ESP,DF,Leverkusen,29-010,1995,5.0,4,3,2,1,1,3,8,37.5,5,3,1,2,6,10,5,0,Matches
+118,Pascal Groß,de GER,MF,Dortmund,33-107,1991,4.5,7,4,1,5,1,0,7,0.0,7,3,0,3,2,9,4,0,Matches
+119,Marco Grüll,at AUT,"FW,MF",Werder Bremen,26-086,1998,1.5,2,2,0,1,1,0,2,0.0,2,4,1,3,1,3,1,0,Matches
+120,Raphaël Guerreiro,pt POR,DF,Bayern Munich,30-283,1993,2.9,6,5,4,1,1,4,4,100.0,0,0,0,0,3,9,2,0,Matches
+121,Morgan Guilavogui,gn GUI,FW,St. Pauli,26-204,1998,2.1,2,0,1,1,0,0,0,,0,0,0,0,0,2,1,0,Matches
+122,Serhou Guirassy,gn GUI,FW,Dortmund,28-202,1996,2.8,0,0,0,0,0,0,0,,0,0,0,0,0,0,4,0,Matches
+123,Péter Gulácsi,hu HUN,GK,RB Leipzig,34-147,1990,5.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,2,1,Matches
+124,Christian Günter,de GER,DF,Freiburg,31-215,1993,4.8,4,3,2,2,0,4,8,50.0,4,3,2,1,2,6,8,0,Matches
+125,Janik Haberer,de GER,"DF,MF",Union Berlin,30-181,1994,3.8,7,5,3,3,1,7,12,58.3,5,1,0,1,1,8,7,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Matches
+126,Robin Hack,de GER,"FW,MF",Gladbach,26-034,1998,1.5,4,4,2,0,2,2,3,66.7,1,0,0,0,0,4,2,0,Matches
+127,Amadou Haidara,ml MLI,MF,RB Leipzig,26-243,1998,3.2,6,5,3,3,0,3,5,60.0,2,9,3,6,2,8,13,0,Matches
+128,Andreas Hanche-Olsen,no NOR,DF,Mainz 05,27-257,1997,3.3,4,1,1,2,1,0,0,,0,7,6,1,3,7,20,1,Matches
+129,Ramon Hendriks,nl NED,DF,Stuttgart,23-074,2001,0.0,0,0,0,0,0,0,0,,0,0,0,0,2,2,0,0,Matches
+130,Benjamin Henrichs,de GER,DF,RB Leipzig,27-220,1997,2.6,12,4,5,5,2,5,7,71.4,2,3,0,3,7,19,5,0,Matches
+131,Piero Hincapié,ec ECU,DF,Leverkusen,22-265,2002,4.4,8,8,4,3,1,5,7,71.4,2,12,6,6,6,14,11,0,Matches
+132,Adam Hložek,cz CZE,"FW,MF",Hoffenheim,22-067,2002,2.7,4,2,2,0,2,1,3,33.3,2,2,0,2,0,4,6,0,Matches
+133,Nicolas Höfler,de GER,MF,Freiburg,34-205,1990,0.6,2,2,1,1,0,1,2,50.0,1,0,0,0,1,3,2,0,Matches
+134,Jonas Hofmann,de GER,MF,Leverkusen,32-078,1992,0.7,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0,Matches
+135,Philipp Hofmann,de GER,FW,Bochum,31-184,1993,3.5,1,0,1,0,0,0,2,0.0,2,1,0,1,0,1,3,0,Matches
+136,Lucas Höler,de GER,"MF,FW",Freiburg,30-082,1994,1.2,4,4,1,3,0,1,3,33.3,2,2,0,2,1,5,2,0,Matches
+137,Benedict Hollerbach,de GER,"MF,FW",Union Berlin,23-136,2001,3.9,7,3,1,4,2,4,4,100.0,0,6,0,6,0,7,0,0,Matches
+138,Lewis Holtby,de GER,MF,Holstein Kiel,34-012,1990,4.4,13,5,8,4,1,4,9,44.4,5,4,0,4,8,21,6,1,Matches
+139,Franck Honorat,fr FRA,FW,Gladbach,28-050,1996,2.6,2,1,1,0,1,0,1,0.0,1,3,1,2,0,2,3,0,Matches
+140,Mathias Honsak,at AUT,"MF,FW",Heidenheim,27-285,1996,0.9,2,2,1,1,0,1,2,50.0,1,0,0,0,0,2,3,0,Matches
+141,Lukáš Hrádecký,fi FIN,GK,Leverkusen,34-311,1989,4.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,1,Matches
+142,Robin Hranáč,cz CZE,DF,Hoffenheim,24-245,2000,1.0,0,0,0,0,0,0,1,0.0,1,1,0,1,2,2,3,1,Matches
+143,Hong Hyunseok,kr KOR,MF,Mainz 05,25-106,1999,2.4,4,1,2,1,1,0,1,0.0,1,1,0,1,3,7,5,0,Matches
+144,Oscar Højlund,dk DEN,MF,Eint Frankfurt,19-270,2005,0.2,2,1,2,0,0,0,0,,0,1,0,1,1,3,0,0,Matches
+145,Jackson Irvine,au AUS,MF,St. Pauli,31-207,1993,5.0,14,6,7,5,2,5,12,41.7,7,6,0,6,9,23,16,0,Matches
+146,Ko Itakura,jp JPN,DF,Gladbach,27-247,1997,5.0,12,8,6,6,0,6,8,75.0,2,2,2,0,5,17,24,0,Matches
+147,Marko Ivezić,rs SRB,DF,Holstein Kiel,22-303,2001,1.0,2,1,1,1,0,1,2,50.0,1,0,0,0,3,5,2,0,Matches
+148,Lee Jae-sung,kr KOR,MF,Mainz 05,32-051,1992,3.8,7,5,3,2,2,1,1,100.0,0,5,1,4,2,9,7,0,Matches
+149,Kristijan Jakić,hr CRO,MF,Augsburg,27-139,1997,2.9,4,0,1,2,1,0,3,0.0,3,5,0,5,3,7,1,0,Matches
+150,Dominik Javorček,sk SVK,DF,Holstein Kiel,21-333,2002,0.5,1,0,1,0,0,1,1,100.0,0,1,1,0,1,2,4,1,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Matches
+151,Fredrik Jensen,fi FIN,"MF,DF",Augsburg,27-021,1997,1.2,0,0,0,0,0,0,0,,0,1,0,1,0,0,1,0,Matches
+152,Moritz Jenz,de GER,DF,Mainz 05,25-153,1999,3.0,3,1,1,2,0,0,3,0.0,3,4,4,0,3,6,24,0,Matches
+153,Carl Johansson,se SWE,DF,Holstein Kiel,30-130,1994,3.9,4,2,4,0,0,3,6,50.0,3,7,6,1,6,10,23,1,Matches
+154,Anthony Jung,de GER,DF,Werder Bremen,32-332,1991,4.5,5,4,4,1,0,1,3,33.3,2,2,1,1,5,10,22,0,Matches
+155,Yusuf Kabadayı,de GER,"MF,FW",Augsburg,20-241,2004,0.4,1,0,0,1,0,0,0,,0,1,0,1,0,1,0,0,Matches
+156,Pavel Kadeřábek,cz CZE,DF,Hoffenheim,32-158,1992,4.8,7,3,4,1,2,5,12,41.7,7,5,2,3,6,13,13,0,Matches
+157,Jakub Kamiński,pl POL,"DF,MF",Wolfsburg,22-117,2002,5.0,10,4,4,2,4,5,13,38.5,8,10,5,5,5,15,4,0,Matches
+158,Kevin Kampl,si SVN,MF,RB Leipzig,33-357,1990,2.9,6,4,2,2,2,3,4,75.0,1,6,1,5,3,9,3,0,Matches
+159,Harry Kane,eng ENG,FW,Bayern Munich,31-064,1993,4.8,2,2,0,1,1,0,0,,0,2,0,2,0,2,2,0,Matches
+160,Atakan Karazor,de GER,MF,Stuttgart,27-353,1996,4.4,10,2,1,5,4,5,5,100.0,0,1,0,1,4,14,5,0,Matches
+161,Mikkel Kaufmann,dk DEN,FW,Heidenheim,23-271,2001,0.9,2,1,1,0,1,0,0,,0,1,1,0,0,2,3,0,Matches
+162,Andu Kelati,de GER,MF,Holstein Kiel,22-048,2002,1.1,1,1,1,0,0,0,1,0.0,1,1,0,1,2,3,1,0,Matches
+163,Aljoscha Kemlein,de GER,MF,Union Berlin,20-059,2004,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+164,Luca Kerber,de GER,"MF,FW",Heidenheim,22-204,2002,0.9,2,2,1,1,0,2,3,66.7,1,1,0,1,0,2,5,0,Matches
+165,Rani Khedira,de GER,MF,Union Berlin,30-247,1994,5.0,8,5,2,6,0,4,6,66.7,2,4,2,2,8,16,8,0,Matches
+166,Joshua Kimmich,de GER,"MF,DF",Bayern Munich,29-235,1995,5.0,5,2,2,2,1,5,7,71.4,2,2,0,2,4,9,7,2,Matches
+167,Tim Kleindienst,de GER,FW,Gladbach,29-030,1995,4.9,3,1,1,2,0,1,6,16.7,5,7,0,7,1,4,9,0,Matches
+168,Lukas Klostermann,de GER,DF,RB Leipzig,28-119,1996,3.2,5,2,4,0,1,3,5,60.0,2,6,3,3,2,7,16,1,Matches
+169,Ansgar Knauff,de GER,"MF,FW",Eint Frankfurt,22-264,2002,1.5,7,4,4,2,1,2,2,100.0,0,2,0,2,0,7,3,0,Matches
+170,Magnus Knudsen,no NOR,MF,Holstein Kiel,23-107,2001,4.7,13,5,6,3,4,7,13,53.8,6,4,2,2,5,18,10,0,Matches
+171,Gregor Kobel,ch SUI,GK,Dortmund,26-299,1997,5.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,2,1,Matches
+172,Robin Koch,de GER,DF,Eint Frankfurt,28-075,1996,5.0,1,1,1,0,0,0,2,0.0,2,13,7,6,2,3,31,1,Matches
+173,Derrick Köhn,de GER,DF,Werder Bremen,25-239,1999,1.6,1,1,0,0,1,0,0,,0,1,1,0,2,3,5,0,Matches
+174,Dominik Kohr,de GER,"DF,MF",Mainz 05,30-243,1994,4.8,16,11,11,2,3,10,13,76.9,3,13,7,6,4,20,26,0,Matches
+175,Marco Komenda,hr CRO,DF,Holstein Kiel,27-309,1996,1.0,2,1,1,1,0,2,2,100.0,0,1,0,1,0,2,6,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Matches
+176,Mert Kömür,de GER,MF,Augsburg,19-075,2005,0.3,0,0,0,0,0,0,0,,0,1,1,0,0,0,0,1,Matches
+177,Henri Koudossou,de GER,DF,Augsburg,25-027,1999,0.3,1,1,0,1,0,1,3,33.3,2,1,1,0,0,1,2,0,Matches
+178,Konstantinos Koulierakis,gr GRE,DF,Wolfsburg,20-307,2003,1.6,2,0,1,1,0,0,2,0.0,2,4,3,1,1,3,10,0,Matches
+179,Matej Kovar,cz CZE,GK,Leverkusen,24-136,2000,1.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+180,Andrej Kramarić,hr CRO,MF,Hoffenheim,33-103,1991,3.9,0,0,0,0,0,0,1,0.0,1,3,1,2,0,0,1,0,Matches
+181,Frans Krätzig,de GER,DF,Stuttgart,21-260,2003,0.6,2,1,1,0,1,1,3,33.3,2,2,1,1,0,2,1,0,Matches
+182,Rasmus Kristensen,dk DEN,"DF,MF",Eint Frankfurt,27-081,1997,5.0,11,6,7,2,2,7,15,46.7,8,6,3,3,3,14,15,0,Matches
+183,Lukas Kübler,de GER,DF,Freiburg,32-031,1992,4.5,9,6,6,2,1,5,7,71.4,2,8,3,5,13,22,9,1,Matches
+184,Moritz-Broni Kwarteng,gh GHA,MF,Bochum,26-155,1998,0.7,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,0,0,Matches
+185,Nediljko Labrović,hr CRO,GK,Augsburg,24-356,1999,5.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,6,0,Matches
+186,Konrad Laimer,at AUT,"DF,MF",Bayern Munich,27-126,1997,1.3,4,4,0,4,0,2,4,50.0,2,1,0,1,1,5,1,0,Matches
+187,Stefan Lainer,at AUT,DF,Gladbach,32-034,1992,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+188,Hugo Larsson,se SWE,MF,Eint Frankfurt,20-095,2004,4.8,3,1,1,2,0,2,6,33.3,4,9,4,5,5,8,8,0,Matches
+189,Diogo Leite,pt POR,DF,Union Berlin,25-251,1999,5.0,17,9,11,5,1,7,12,58.3,5,13,6,7,9,26,19,0,Matches
+190,Maxim Leitsch,de GER,DF,Mainz 05,26-135,1998,2.1,3,0,1,1,1,1,1,100.0,0,4,1,3,3,6,14,0,Matches
+191,Jamie Leweling,de GER,"FW,MF",Stuttgart,23-217,2001,4.7,2,1,1,0,1,1,3,33.3,2,5,0,5,2,4,5,0,Matches
+192,Philipp Lienhart,at AUT,DF,Freiburg,28-081,1996,4.5,2,2,1,1,0,1,4,25.0,3,2,2,0,4,6,12,1,Matches
+193,Anthony Losilla,fr FRA,MF,Bochum,38-204,1986,3.1,7,7,3,4,0,3,8,37.5,5,8,2,6,6,13,5,0,Matches
+194,Castello Lukeba,fr FRA,DF,RB Leipzig,21-288,2002,3.9,7,2,2,4,1,2,5,40.0,3,8,4,4,3,10,12,0,Matches
+195,Senne Lynen,be BEL,MF,Werder Bremen,25-224,1999,4.8,11,5,5,3,3,6,7,85.7,1,7,1,6,4,15,10,0,Matches
+196,Shuto Machino,jp JPN,"FW,MF",Holstein Kiel,25-000,1999,3.7,2,2,1,0,1,2,4,50.0,2,0,0,0,2,4,2,0,Matches
+197,Arne Maier,de GER,MF,Augsburg,25-266,1999,1.9,1,0,0,1,0,1,1,100.0,0,3,0,3,0,1,0,0,Matches
+198,Patrick Mainka,de GER,DF,Heidenheim,29-329,1994,5.0,4,2,4,0,0,2,3,66.7,1,8,4,4,9,13,20,0,Matches
+199,Lovro Majer,hr CRO,MF,Wolfsburg,26-257,1998,1.3,0,0,0,0,0,0,1,0.0,1,1,0,1,0,0,1,0,Matches
+200,Jordy Makengo,fr FRA,DF,Freiburg,23-058,2001,0.2,2,2,2,0,0,2,2,100.0,0,0,0,0,0,2,1,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Matches
+201,Julián Malatini,ar ARG,DF,Werder Bremen,23-122,2001,1.4,5,5,3,2,0,2,3,66.7,1,1,1,0,2,7,5,0,Matches
+202,Donyell Malen,nl NED,"FW,DF",Dortmund,25-265,1999,1.8,0,0,0,0,0,0,0,,0,2,0,2,1,1,1,0,Matches
+203,Lennard Maloney,us USA,MF,Heidenheim,24-358,1999,3.2,6,3,4,2,0,5,7,71.4,2,3,0,3,4,10,16,0,Matches
+204,Johan Manzambi,ch SUI,FW,Freiburg,18-352,2005,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+205,Omar Marmoush,eg EGY,"FW,MF",Eint Frankfurt,25-236,1999,4.6,4,2,0,2,2,0,1,0.0,1,4,1,3,0,4,1,0,Matches
+206,Erhan Mašović,rs SRB,DF,Bochum,25-313,1998,3.2,3,3,2,1,0,2,4,50.0,2,6,5,1,4,7,14,0,Matches
+207,Igor Matanovic,hr CRO,FW,Eint Frankfurt,21-183,2003,1.6,1,0,0,1,0,0,0,,0,1,0,1,0,1,3,0,Matches
+208,Chrislain Matsima,fr FRA,DF,Augsburg,22-138,2002,0.4,0,0,0,0,0,0,0,,0,3,3,0,0,0,2,0,Matches
+209,Jean Mattéo Bahoya,fr FRA,MF,Eint Frankfurt,19-146,2005,0.1,2,2,1,1,0,2,2,100.0,0,0,0,0,0,2,0,0,Matches
+210,Keke Maximilian Topp,de GER,"FW,MF",Werder Bremen,20-189,2004,1.3,1,0,0,0,1,0,0,,0,0,0,0,1,2,0,0,Matches
+211,Jakov Medić,hr CRO,DF,Bochum,26-023,1998,4.8,4,3,2,2,0,2,6,33.3,4,10,8,2,6,10,33,1,Matches
+212,Connor Metcalfe,au AUS,MF,St. Pauli,24-330,1999,2.5,1,0,0,1,0,0,3,0.0,3,3,0,3,2,3,4,0,Matches
+213,Karol Mets,ee EST,DF,St. Pauli,31-137,1993,5.0,5,2,3,2,0,1,3,33.3,2,4,1,3,4,9,33,0,Matches
+214,Florian Micheler,at AUT,MF,Hoffenheim,19-136,2005,0.4,0,0,0,0,0,0,2,0.0,2,0,0,0,0,0,0,0,Matches
+215,Enzo Millot,fr FRA,MF,Stuttgart,22-075,2002,3.9,4,4,0,2,2,2,9,22.2,7,7,0,7,3,7,0,0,Matches
+216,Kim Min-jae,kr KOR,DF,Bayern Munich,27-320,1996,4.9,6,3,1,5,0,1,2,50.0,1,6,2,4,10,16,9,1,Matches
+217,Maximilian Mittelstädt,de GER,DF,Stuttgart,27-196,1997,4.1,10,6,6,4,0,7,12,58.3,5,10,4,6,7,17,12,0,Matches
+218,Koji Miyoshi,jp JPN,MF,Bochum,27-188,1997,0.9,2,2,0,1,1,0,1,0.0,1,2,1,1,0,2,1,0,Matches
+219,Max Moerstedt,de GER,FW,Hoffenheim,,,0.3,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0,Matches
+220,Steve Mounié,bj BEN,FW,Augsburg,30-001,1994,1.3,1,1,0,0,1,0,0,,0,0,0,0,0,1,1,0,Matches
+221,Nordi Mukiele,fr FRA,DF,Leverkusen,26-334,1997,0.6,2,2,0,1,1,2,2,100.0,0,1,0,1,1,3,2,1,Matches
+222,Florian Müller,de GER,GK,Freiburg,26-322,1997,2.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+223,Kevin Müller,de GER,GK,Heidenheim,33-199,1991,5.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,2,0,Matches
+224,Thomas Müller,de GER,"MF,FW",Bayern Munich,35-017,1989,1.4,0,0,0,0,0,0,1,0.0,1,2,0,2,0,0,1,0,Matches
+225,Jamal Musiala,de GER,MF,Bayern Munich,21-217,2003,4.3,7,5,2,3,2,1,6,16.7,5,4,0,4,3,10,2,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Matches
+226,Florent Muslija,xk KVX,"DF,FW",Freiburg,26-086,1998,0.6,4,3,3,0,1,2,2,100.0,0,0,0,0,0,4,0,0,Matches
+227,Phillipp Mwene,at AUT,DF,Mainz 05,30-245,1994,4.9,9,4,2,6,1,2,5,40.0,3,4,1,3,5,14,12,0,Matches
+228,Nathan N'Goumou,fr FRA,FW,Gladbach,24-200,2000,2.4,5,5,3,1,1,2,4,50.0,2,5,0,5,2,7,3,0,Matches
+229,Stanley N'Soki,fr FRA,DF,Hoffenheim,25-174,1999,0.2,1,0,1,0,0,0,0,,0,1,0,1,0,1,3,0,Matches
+230,Paul Nebel,de GER,DF,Mainz 05,21-356,2002,0.4,2,0,1,0,1,2,2,100.0,0,2,0,2,2,4,3,0,Matches
+231,Luca Netz,de GER,DF,Gladbach,21-138,2003,4.9,12,6,9,2,1,5,9,55.6,4,8,2,6,6,18,12,0,Matches
+232,Manuel Neuer,de GER,GK,Bayern Munich,38-187,1986,4.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,2,1,Matches
+233,Florian Neuhaus,de GER,MF,Gladbach,27-198,1997,0.3,1,0,1,0,0,0,4,0.0,4,0,0,0,1,2,0,0,Matches
+234,Moritz Nicolas,de GER,GK,Gladbach,26-345,1997,2.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0,Matches
+235,Justin Njinmah,de GER,"MF,FW",Werder Bremen,23-320,2000,1.5,1,1,1,0,0,1,1,100.0,0,0,0,0,2,3,0,0,Matches
+236,Niels Nkounkou,fr FRA,"MF,DF",Eint Frankfurt,23-334,2000,1.9,1,1,1,0,0,0,1,0.0,1,2,1,1,3,4,2,0,Matches
+237,Felix Nmecha,de GER,"MF,DF",Dortmund,23-356,2000,1.8,3,3,0,2,1,2,3,66.7,1,1,0,1,2,5,5,0,Matches
+238,Alexander Nübel,de GER,GK,Stuttgart,28-000,1996,5.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0,Matches
+239,Antonio Nusa,no NOR,MF,RB Leipzig,19-166,2005,2.0,6,3,4,1,1,3,4,75.0,1,5,0,5,1,7,4,0,Matches
+240,Tim Oermann,de GER,DF,Bochum,20-360,2003,1.2,1,1,1,0,0,0,1,0.0,1,2,2,0,3,4,2,0,Matches
+241,Ifechukwu Ogbus,ch SUI,DF,Freiburg,18-288,2005,0.2,1,1,0,0,1,0,1,0.0,1,0,0,0,1,2,2,0,Matches
+242,Michael Olise,fr FRA,"FW,MF",Bayern Munich,22-293,2001,3.6,6,4,2,3,1,3,6,50.0,3,3,0,3,1,7,2,0,Matches
+243,Jonas Omlin,ch SUI,GK,Gladbach,30-264,1994,3.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+244,Karim Onisiwo,at AUT,"MF,FW",Mainz 05,32-197,1992,1.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+245,Frank Onyeka,ng NGA,MF,Augsburg,26-273,1998,2.9,9,8,4,3,2,3,4,75.0,1,4,2,2,6,15,3,0,Matches
+246,Loïs Openda,be BEL,FW,RB Leipzig,24-227,2000,4.2,0,0,0,0,0,0,1,0.0,1,2,0,2,0,0,0,0,Matches
+247,Willi Orban,hu HUN,DF,RB Leipzig,31-332,1992,2.9,5,4,3,2,0,4,5,80.0,1,4,3,1,4,9,11,0,Matches
+248,Patrick Osterhage,de GER,MF,Freiburg,24-242,2000,4.0,9,6,4,4,1,3,8,37.5,5,4,0,4,9,18,3,0,Matches
+249,Salih Özcan,tr TUR,MF,Wolfsburg,26-263,1998,1.3,1,1,0,0,1,0,4,0.0,4,5,1,4,2,3,1,0,Matches
+250,Exequiel Palacios,ar ARG,MF,Leverkusen,25-361,1998,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Matches
+251,João Palhinha,pt POR,MF,Bayern Munich,29-083,1995,1.4,1,1,1,0,0,0,2,0.0,2,4,0,4,2,3,1,0,Matches
+252,Mats Pannewig,de GER,MF,Bochum,19-338,2004,0.4,0,0,0,0,0,0,0,,0,3,0,3,0,0,2,0,Matches
+253,Felix Passlack,de GER,DF,Bochum,26-124,1998,5.0,9,5,5,2,2,5,10,50.0,5,11,4,7,4,13,11,0,Matches
+254,Aleksandar Pavlovic,de GER,MF,Bayern Munich,20-150,2004,3.6,10,5,2,5,3,4,6,66.7,2,5,1,4,0,10,3,0,Matches
+255,Mads Pedersen,dk DEN,DF,Augsburg,28-029,1996,1.8,5,4,3,1,1,3,3,100.0,0,3,0,3,1,6,5,0,Matches
+256,Jordan Pefok,us USA,FW,Union Berlin,28-157,1996,3.7,3,2,2,0,1,0,2,0.0,2,2,0,2,2,5,5,0,Matches
+257,Benedikt Pichler,at AUT,FW,Holstein Kiel,27-072,1997,4.6,3,2,1,0,2,1,2,50.0,1,3,1,2,1,4,5,0,Matches
+258,Amos Pieper,de GER,DF,Werder Bremen,26-257,1998,1.2,2,1,1,0,1,0,3,0.0,3,2,2,0,5,7,4,0,Matches
+259,Marvin Pieringer,de GER,FW,Heidenheim,24-362,1999,3.8,2,0,0,1,1,1,2,50.0,1,5,0,5,1,3,4,0,Matches
+260,Alassane Pléa,fr FRA,FW,Gladbach,31-204,1993,3.0,1,1,0,1,0,1,1,100.0,0,1,0,1,0,1,1,1,Matches
+261,Finn Porath,de GER,"DF,MF",Holstein Kiel,27-220,1997,3.8,4,1,3,0,1,2,7,28.6,5,7,3,4,2,6,9,0,Matches
+262,Yussuf Poulsen,dk DEN,FW,RB Leipzig,30-107,1994,1.0,1,1,1,0,0,1,3,33.3,2,2,2,0,0,1,1,0,Matches
+263,Alexander Prass,at AUT,DF,Hoffenheim,23-127,2001,3.9,4,2,4,0,0,4,9,44.4,5,4,1,3,1,5,8,1,Matches
+264,Grischa Prömel,de GER,MF,Hoffenheim,29-265,1995,1.9,0,0,0,0,0,0,1,0.0,1,1,1,0,2,2,4,0,Matches
+265,Tymoteusz Puchacz,pl POL,DF,Holstein Kiel,25-251,1999,1.6,3,2,2,1,0,1,2,50.0,1,4,1,3,0,3,5,0,Matches
+266,Leopold Querfeld,at AUT,DF,Union Berlin,20-285,2003,0.9,2,0,2,0,0,2,3,66.7,1,2,1,1,1,3,11,0,Matches
+267,David Raum,de GER,DF,RB Leipzig,26-161,1998,4.6,11,8,5,4,2,2,5,40.0,3,4,1,3,2,13,10,0,Matches
+268,Rocco Reitz,de GER,MF,Gladbach,22-124,2002,2.4,9,3,6,3,0,6,6,100.0,0,4,2,2,8,17,4,0,Matches
+269,Nicolai Remberg,de GER,MF,Holstein Kiel,24-103,2000,1.8,6,3,3,3,0,2,3,66.7,1,3,0,3,0,6,4,0,Matches
+270,Elvis Rexhbeçaj,xk KVX,MF,Augsburg,26-334,1997,4.6,4,3,0,3,1,3,9,33.3,6,7,1,6,2,6,5,0,Matches
+271,Gio Reyna,us USA,MF,Dortmund,21-322,2002,0.1,1,0,0,0,1,1,1,100.0,0,0,0,0,0,1,0,0,Matches
+272,Fabian Rieder,ch SUI,"MF,FW",Stuttgart,22-227,2002,2.6,4,3,1,2,1,2,6,33.3,4,3,0,3,3,7,0,0,Matches
+273,Lars Ritzka,de GER,"DF,FW",St. Pauli,26-146,1998,2.2,10,7,3,4,3,5,10,50.0,5,6,0,6,0,10,5,0,Matches
+274,Merlin Röhl,de GER,MF,Freiburg,22-087,2002,1.8,3,3,1,2,0,1,1,100.0,0,1,0,1,1,4,0,0,Matches
+275,Lasse Rosenboom,de GER,DF,Holstein Kiel,22-255,2002,1.7,4,3,4,0,0,2,3,66.7,1,3,1,2,2,6,7,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Matches
+276,Max Rosenfelder,de GER,DF,Freiburg,21-233,2003,3.0,6,4,5,1,0,4,4,100.0,0,4,1,3,2,8,17,0,Matches
+277,Tom Rothe,de GER,"DF,MF",Union Berlin,19-337,2004,3.2,10,3,9,1,0,3,6,50.0,3,8,3,5,2,12,7,1,Matches
+278,Anthony Rouault,fr FRA,DF,Stuttgart,23-124,2001,2.3,2,1,1,1,0,2,2,100.0,0,3,1,2,2,4,8,0,Matches
+279,Julian Ryerson,no NOR,DF,Dortmund,26-318,1997,4.3,3,3,1,1,1,3,6,50.0,3,4,1,3,5,8,4,0,Matches
+280,Frederik Rønnow,dk DEN,GK,Union Berlin,32-057,1992,5.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,5,0,Matches
+281,Elias Saad,tn TUN,"FW,MF",St. Pauli,24-278,1999,2.8,9,6,4,3,2,4,9,44.4,5,6,0,6,0,9,1,0,Matches
+282,Marcel Sabitzer,at AUT,"MF,FW",Dortmund,30-197,1994,3.2,5,3,0,5,0,3,6,50.0,3,6,3,3,1,6,4,0,Matches
+283,Manolis Saliakas,gr GRE,MF,St. Pauli,28-018,1996,2.3,5,3,3,0,2,2,4,50.0,2,2,0,2,1,6,8,0,Matches
+284,Roland Sallai,hu HUN,"FW,MF",Freiburg,27-131,1997,0.5,2,1,1,1,0,0,0,,0,0,0,0,1,3,0,0,Matches
+285,Philipp Sander,de GER,MF,Gladbach,26-222,1998,2.7,7,3,3,3,1,2,3,66.7,1,6,1,5,4,11,3,0,Matches
+286,Leroy Sané,de GER,FW,Bayern Munich,28-263,1996,0.4,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+287,Kaishu Sano,jp JPN,MF,Mainz 05,23-275,2000,4.8,9,6,4,4,1,3,8,37.5,5,8,3,5,4,13,7,0,Matches
+288,Kauã Santos,br BRA,GK,Eint Frankfurt,21-172,2003,2.5,0,0,0,0,0,0,0,,0,0,0,0,0,0,2,0,Matches
+289,Joe Scally,us USA,DF,Gladbach,21-274,2002,5.0,10,6,8,2,0,5,7,71.4,2,2,1,1,1,11,10,1,Matches
+290,András Schäfer,hu HUN,MF,Union Berlin,25-170,1999,3.9,12,6,6,5,1,9,13,69.2,4,6,1,5,4,16,8,0,Matches
+291,Patrik Schick,cz CZE,FW,Leverkusen,28-250,1996,1.0,1,1,0,1,0,0,0,,0,0,0,0,0,1,1,0,Matches
+292,Stefan Schimmer,de GER,FW,Heidenheim,30-155,1994,0.3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+293,Keven Schlotterbeck,de GER,DF,Augsburg,27-155,1997,4.6,4,3,1,3,0,2,2,100.0,0,4,3,1,6,10,17,1,Matches
+294,Nico Schlotterbeck,de GER,DF,Dortmund,24-304,1999,3.8,9,6,5,4,0,7,11,63.6,4,3,0,3,7,16,10,0,Matches
+295,Romano Schmid,at AUT,MF,Werder Bremen,24-247,2000,4.8,6,1,2,3,1,4,11,36.4,7,5,0,5,0,6,3,0,Matches
+296,Jan Schöppner,de GER,MF,Heidenheim,25-110,1999,4.2,9,4,2,6,1,5,8,62.5,3,6,1,5,7,16,20,0,Matches
+297,Marvin Schulz,de GER,MF,Holstein Kiel,29-259,1995,0.1,0,0,0,0,0,0,1,0.0,1,1,1,0,0,0,1,0,Matches
+298,Léo Scienza,br BRA,"FW,MF",Heidenheim,26-017,1998,2.7,2,2,2,0,0,0,4,0.0,4,1,0,1,3,5,4,0,Matches
+299,Nicolas Seiwald,at AUT,MF,RB Leipzig,23-149,2001,3.4,10,8,3,7,0,4,8,50.0,4,3,1,2,7,17,8,0,Matches
+300,Benjamin Šeško,si SVN,"FW,MF",RB Leipzig,21-122,2003,4.0,3,1,0,1,2,1,1,100.0,0,3,1,2,2,5,4,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Matches
+301,Armindo Sieb,de GER,"MF,FW",Mainz 05,21-226,2003,1.5,1,0,0,1,0,1,2,50.0,1,1,0,1,0,1,1,0,Matches
+302,Tim Siersleben,de GER,DF,Heidenheim,24-205,2000,0.1,0,0,0,0,0,0,0,,0,0,0,0,1,1,2,0,Matches
+303,Kiliann Sildillia,fr FRA,FW,Freiburg,22-137,2002,0.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+304,André Silva,pt POR,FW,RB Leipzig,28-329,1995,0.2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+305,Mohamed Simakan,fr FRA,DF,RB Leipzig,24-150,2000,0.6,0,0,0,0,0,0,0,,0,0,0,0,2,2,0,0,Matches
+306,Xavi Simons,nl NED,MF,RB Leipzig,21-162,2003,5.0,5,4,0,5,0,2,2,100.0,0,3,1,2,1,6,2,0,Matches
+307,Danel Sinani,lu LUX,FW,St. Pauli,27-178,1997,0.0,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,0,0,Matches
+308,Ibrahima Sissoko,ml MLI,"MF,DF",Bochum,26-339,1997,4.8,14,10,7,6,1,6,11,54.5,5,3,2,1,6,20,11,0,Matches
+309,Tim Skarke,de GER,"FW,MF",Union Berlin,28-023,1996,1.6,2,2,1,1,0,2,4,50.0,2,1,0,1,0,2,3,0,Matches
+310,Ellyes Skhiri,tn TUN,MF,Eint Frankfurt,29-143,1995,4.1,4,3,2,2,0,0,7,0.0,7,10,1,9,5,9,7,0,Matches
+311,Steven Skrzybski,de GER,MF,Holstein Kiel,31-317,1992,0.6,0,0,0,0,0,0,0,,0,0,0,0,2,2,1,0,Matches
+312,Eric Smith,se SWE,DF,St. Pauli,27-266,1997,4.4,4,3,4,0,0,3,3,100.0,0,6,3,3,7,11,15,1,Matches
+313,Anton Stach,de GER,"DF,MF",Hoffenheim,25-320,1998,4.5,12,10,6,5,1,6,8,75.0,2,7,3,4,3,15,25,0,Matches
+314,Jens Stage,dk DEN,MF,Werder Bremen,27-327,1996,4.7,5,5,3,2,0,2,8,25.0,6,10,2,8,6,11,7,0,Matches
+315,Niklas Stark,de GER,DF,Werder Bremen,29-169,1995,4.1,9,6,4,4,1,4,5,80.0,1,10,8,2,4,13,24,0,Matches
+316,Pascal Stenzel,de GER,DF,Stuttgart,28-194,1996,1.3,1,0,1,0,0,0,1,0.0,1,3,1,2,0,1,4,0,Matches
+317,Angelo Stiller,de GER,"MF,DF",Stuttgart,23-179,2001,4.9,5,1,2,2,1,2,4,50.0,2,7,3,4,4,9,12,1,Matches
+318,Kevin Stöger,at AUT,MF,Gladbach,31-034,1993,4.6,8,4,3,3,2,3,10,30.0,7,7,0,7,3,11,11,0,Matches
+319,Niklas Süle,de GER,DF,Dortmund,29-027,1995,3.7,5,4,4,1,0,4,5,80.0,1,1,1,0,1,6,19,0,Matches
+320,Mattias Svanberg,se SWE,MF,Wolfsburg,25-269,1999,4.2,6,3,0,5,1,1,3,33.3,2,1,0,1,4,10,4,0,Matches
+321,Haris Tabakovic,ba BIH,FW,Hoffenheim,30-102,1994,0.4,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+322,Jonathan Tah,de GER,DF,Leverkusen,28-232,1996,5.0,4,3,3,1,0,2,2,100.0,0,3,2,1,5,9,15,1,Matches
+323,Edmond Tapsoba,bf BFA,DF,Leverkusen,25-241,1999,4.9,14,11,7,6,1,5,9,55.6,4,2,2,0,2,16,13,0,Matches
+324,Mathys Tel,fr FRA,"MF,FW",Bayern Munich,19-156,2005,0.8,0,0,0,0,0,0,0,,0,0,0,0,1,1,0,0,Matches
+325,Nathan Tella,ng NGA,"DF,FW",Leverkusen,25-087,1999,0.9,0,0,0,0,0,0,1,0.0,1,1,0,1,0,0,1,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Matches
+326,Martin Terrier,fr FRA,MF,Leverkusen,27-210,1997,3.0,2,1,0,0,2,1,2,50.0,1,2,0,2,1,3,1,0,Matches
+327,Arthur Theate,be BEL,DF,Eint Frankfurt,24-128,2000,4.8,4,2,1,3,0,2,7,28.6,5,9,8,1,5,9,25,0,Matches
+328,Phillip Tietz,de GER,FW,Augsburg,27-083,1997,2.8,3,2,1,2,0,1,1,100.0,0,1,0,1,1,4,5,0,Matches
+329,Umut Tohumcu,de GER,MF,Hoffenheim,20-050,2004,1.5,5,4,2,2,1,2,2,100.0,0,2,0,2,1,6,2,0,Matches
+330,Tiago Tomás,pt POR,"MF,FW",Wolfsburg,22-106,2002,4.1,7,4,5,1,1,4,13,30.8,9,3,0,3,4,11,5,0,Matches
+331,Lucas Tousart,fr FRA,MF,Union Berlin,27-154,1997,1.4,1,1,0,1,0,0,2,0.0,2,3,1,2,1,2,2,0,Matches
+332,Omar Traoré,de GER,"DF,FW",Heidenheim,26-239,1998,4.8,11,6,9,2,0,7,8,87.5,1,2,2,0,1,12,9,0,Matches
+333,Kevin Trapp,de GER,GK,Eint Frankfurt,34-084,1990,2.5,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+334,Philipp Treu,de GER,"MF,DF",St. Pauli,23-302,2000,5.0,9,5,6,2,1,5,9,55.6,4,12,0,12,2,11,7,0,Matches
+335,Christopher Trimmel,at AUT,DF,Union Berlin,37-219,1987,1.2,3,2,2,1,0,2,3,66.7,1,0,0,0,1,4,5,0,Matches
+336,Tuta,br BRA,"DF,MF",Eint Frankfurt,25-088,1999,5.0,13,8,9,3,1,9,12,75.0,3,12,7,5,4,17,31,0,Matches
+337,Sven Ulreich,de GER,GK,Bayern Munich,36-058,1988,1.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+338,Deniz Undav,de GER,"FW,MF",Stuttgart,28-073,1996,3.6,3,3,0,1,2,0,0,,0,2,0,2,0,3,1,0,Matches
+339,Dayot Upamecano,fr FRA,DF,Bayern Munich,25-339,1998,5.0,9,6,2,6,1,5,8,62.5,3,3,1,2,9,18,10,0,Matches
+340,Can Uzun,tr TUR,"FW,MF",Eint Frankfurt,18-324,2005,0.6,2,1,1,0,1,1,2,50.0,1,0,0,0,0,2,0,0,Matches
+341,Josha Vagnoman,de GER,DF,Stuttgart,23-294,2000,3.0,3,1,2,1,0,0,0,,0,3,1,2,3,6,7,0,Matches
+342,Ruben Vargas,ch SUI,MF,Augsburg,26-056,1998,2.6,2,1,1,1,0,1,4,25.0,3,1,0,1,1,3,0,1,Matches
+343,Nikola Vasilj,ba BIH,GK,St. Pauli,28-303,1995,5.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0,Matches
+344,Denis Vavro,sk SVK,DF,Wolfsburg,28-173,1996,0.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+345,Miloš Veljković,rs SRB,DF,Werder Bremen,29-004,1995,1.0,0,0,0,0,0,0,1,0.0,1,1,1,0,0,0,2,0,Matches
+346,Nikolas Veratschnig,at AUT,MF,Mainz 05,21-250,2003,0.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+347,Arthur Vermeeren,be BEL,MF,RB Leipzig,19-236,2005,0.8,2,1,2,0,0,2,4,50.0,2,2,1,1,1,3,2,0,Matches
+348,Yorbe Vertessen,be BEL,"MF,FW",Union Berlin,23-266,2001,2.0,2,1,1,1,0,0,1,0.0,1,2,0,2,0,2,1,0,Matches
+349,Kevin Vogt,de GER,DF,Union Berlin,33-007,1991,4.9,1,1,0,1,0,0,3,0.0,3,3,1,2,2,3,24,0,Matches
+350,Aster Vranckx,be BEL,MF,Wolfsburg,21-362,2002,0.6,1,1,1,0,0,0,0,,0,0,0,0,2,3,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Matches
+351,Robert Wagner,de GER,MF,St. Pauli,21-078,2003,2.0,6,2,1,5,0,2,6,33.3,4,5,0,5,0,6,3,0,Matches
+352,Hauke Wahl,de GER,DF,St. Pauli,30-168,1994,5.0,6,3,1,5,0,3,4,75.0,1,4,1,3,5,11,18,0,Matches
+353,Paul Wanner,de GER,MF,Heidenheim,18-282,2005,3.9,10,6,2,8,0,4,8,50.0,4,2,0,2,1,11,5,0,Matches
+354,Julian Weigl,de GER,MF,Gladbach,29-022,1995,4.6,9,4,6,2,1,6,7,85.7,1,5,2,3,11,20,10,0,Matches
+355,Timon Weiner,de GER,GK,Holstein Kiel,25-256,1999,5.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,3,0,Matches
+356,Nelson Weiper,de GER,"FW,MF",Mainz 05,19-197,2005,0.2,0,0,0,0,0,0,0,,0,1,0,1,0,0,0,0,Matches
+357,Mitchell Weiser,de GER,"DF,MF",Werder Bremen,30-162,1994,5.0,9,5,3,6,0,4,9,44.4,5,2,0,2,2,11,11,0,Matches
+358,Noah Weißhaupt,de GER,FW,Freiburg,23-010,2001,0.6,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,1,0,Matches
+359,Silvan Widmer,ch SUI,DF,Mainz 05,31-209,1993,1.2,2,2,1,1,0,2,3,66.7,1,1,0,1,1,3,4,0,Matches
+360,Patrick Wimmer,at AUT,"FW,MF",Wolfsburg,23-123,2001,3.3,3,3,1,2,0,2,6,33.3,4,4,0,4,4,7,1,0,Matches
+361,Jonas Wind,dk DEN,"FW,MF",Wolfsburg,25-236,1999,1.5,0,0,0,0,0,0,0,,0,1,0,1,0,0,0,0,Matches
+362,Florian Wirtz,de GER,MF,Leverkusen,21-150,2003,5.0,9,5,4,4,1,3,6,50.0,3,7,1,6,3,12,0,0,Matches
+363,Dani de Wit,nl NED,MF,Bochum,26-246,1998,4.0,7,5,4,3,0,3,9,33.3,6,5,1,4,5,12,9,0,Matches
+364,Maximilian Wittek,de GER,DF,Bochum,29-040,1995,5.0,8,7,4,4,0,8,14,57.1,6,14,3,11,9,17,17,0,Matches
+365,Marius Wolf,de GER,DF,Augsburg,29-126,1995,2.9,2,0,0,1,1,0,3,0.0,3,4,0,4,1,3,6,0,Matches
+366,Nick Woltemade,de GER,MF,Stuttgart,22-229,2002,0.2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+367,Jeong Woo-yeong,kr KOR,"MF,FW",Union Berlin,25-010,1999,1.7,0,0,0,0,0,0,0,,0,0,0,0,1,1,0,0,Matches
+368,Granit Xhaka,ch SUI,MF,Leverkusen,32-003,1992,5.0,6,3,1,4,1,3,4,75.0,1,6,3,3,1,7,5,0,Matches
+369,Dan-Axel Zagadou,fr FRA,"DF,MF",Stuttgart,25-119,1999,0.3,0,0,0,0,0,0,0,,0,0,0,0,1,1,1,0,Matches
+370,Robin Zentner,de GER,GK,Mainz 05,29-338,1994,5.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,10,1,Matches
+371,Cedric Zesiger,ch SUI,DF,Wolfsburg,26-098,1998,5.0,10,6,3,5,2,4,9,44.4,5,5,5,0,3,13,24,0,Matches
+372,Michael Zetterer,de GER,GK,Werder Bremen,29-080,1995,5.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,1,Matches

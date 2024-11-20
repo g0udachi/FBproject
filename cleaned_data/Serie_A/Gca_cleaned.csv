@@ -1,0 +1,472 @@
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,SCA,SCA90,PassLive_sca,PassDead_sca,TO_sca,Sh_sca,Fld_sca,Def_sca,GCA,GCA90,PassLive_gca,PassDead_gca,TO_gca,Sh_gca,Fld_gca,Def_gca
+1,Oliver Abildgaard,DEN,MF,Como,28,1996,0.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+2,Tammy Abraham,ENG,FW,Roma,26,1997,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+3,Tammy Abraham,ENG,FW,Milan,26,1997,2.9,8,2.8,3,0,0,4,1,0,3,1.05,1,0,0,1,1,0
+4,Federico Accornero,ITA,MF,Genoa,20,2004,0.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+5,Francesco Acerbi,ITA,DF,Inter,36,1988,5.0,2,0.4,2,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+6,Che Adams,SCO,"FW,MF",Torino,28,1996,3.9,12,3.04,9,0,0,1,2,0,1,0.25,1,0,0,0,0,0
+7,Yacine Adli,FRA,MF,Fiorentina,24,2000,0.7,4,5.37,1,2,1,0,0,0,2,2.69,0,1,1,0,0,0
+8,Michel Aebischer,SUI,MF,Bologna,27,1997,3.7,8,2.16,6,1,0,0,0,1,0,0.0,0,0,0,0,0,0
+9,Honest Ahanor,ITA,DF,Genoa,16,2008,0.8,1,1.32,0,0,0,0,1,0,0,0.0,0,0,0,0,0,0
+10,David Akpan Ankeye,NGA,FW,Genoa,22,2002,0.2,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+11,Faride Alidou,GER,"FW,MF",Hellas Verona,23,2001,0.7,2,3.05,1,0,1,0,0,0,0,0.0,0,0,0,0,0,0
+12,Pontus Almqvist,SWE,FW,Parma,25,1999,1.4,4,2.9,3,0,1,0,0,0,1,0.73,1,0,0,0,0,0
+13,Giorgio Altare,ITA,DF,Venezia,26,1998,2.2,1,0.46,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+14,Sofyan Amrabat,MAR,MF,Fiorentina,28,1996,2.0,4,2.0,4,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+15,Angeliño,ESP,DF,Roma,27,1997,6.0,17,2.83,15,2,0,0,0,0,0,0.0,0,0,0,0,0,0
+16,Lorenzo Anghelè,ITA,FW,Juventus,19,2005,0.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+17,Faustino Anjorin,ENG,MF,Empoli,22,2001,1.7,2,1.16,2,0,0,0,0,0,1,0.58,1,0,0,0,0,0
+18,Marko Arnautović,AUT,FW,Inter,35,1989,0.4,1,2.25,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+19,Kristjan Asllani,ALB,MF,Inter,22,2002,1.6,5,3.1,4,1,0,0,0,0,0,0.0,0,0,0,0,0,0
+20,Arthur Atta,FRA,MF,Udinese,21,2003,0.2,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+21,Emil Audero,ITA,GK,Como,27,1997,3.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+22,Tommaso Augello,ITA,DF,Cagliari,30,1994,4.5,14,3.08,10,4,0,0,0,0,0,0.0,0,0,0,0,0,0
+23,Carlos Augusto,BRA,DF,Inter,25,1999,2.1,2,0.95,0,1,0,0,1,0,0,0.0,0,0,0,0,0,0
+24,Yann Aurel Bisseck,GER,DF,Inter,23,2000,2.0,2,1.0,1,0,0,1,0,0,0,0.0,0,0,0,0,0,0
+25,Paulo Azzi,BRA,DF,Cagliari,30,1994,3.7,15,4.02,9,2,1,2,0,1,0,0.0,0,0,0,0,0,0
+26,Milan Badelj,CRO,MF,Genoa,35,1989,4.4,10,2.26,9,0,0,0,1,0,0,0.0,0,0,0,0,0,0
+27,Mitchel Bakker,NED,MF,Atalanta,24,2000,0.2,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+28,Tommaso Baldanzi,ITA,"MF,FW",Roma,21,2003,1.7,10,5.92,7,0,1,0,1,1,3,1.78,2,0,0,0,0,1
+29,Botond Balogh,HUN,DF,Parma,22,2002,4.8,2,0.42,2,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+30,Lameck Banda,ZAM,"FW,MF",Lecce,23,2001,2.7,10,3.75,7,0,1,1,1,0,0,0.0,0,0,0,0,0,0
+31,Daniel Bandeira,POR,MF,Hellas Verona,24,2000,2.5,2,0.79,2,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+32,Mattia Bani,ITA,DF,Genoa,30,1993,3.5,1,0.29,0,0,0,1,0,0,1,0.29,0,0,0,1,0,0
+33,Antonín Barák,CZE,MF,Fiorentina,29,1994,0.6,3,5.0,3,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+34,Federico Barba,ITA,DF,Como,31,1993,2.0,2,1.0,2,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+35,Nicolò Barella,ITA,MF,Inter,27,1997,3.5,10,2.88,9,0,0,1,0,0,3,0.87,3,0,0,0,0,0
+36,Davide Bartesaghi,ITA,DF,Milan,18,2005,0.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+37,Federico Baschirotto,ITA,DF,Lecce,28,1996,6.0,2,0.33,1,1,0,0,0,0,0,0.0,0,0,0,0,0,0
+38,Daniele Baselli,ITA,MF,Como,32,1992,0.2,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+39,Alessandro Bastoni,ITA,DF,Inter,25,1999,4.4,7,1.59,6,1,0,0,0,0,2,0.46,1,1,0,0,0,0
+40,Reda Belahyane,FRA,MF,Hellas Verona,20,2004,5.8,9,1.56,7,0,1,0,0,1,2,0.35,1,0,0,0,0,1
+41,Raoul Bellanova,ITA,DF,Torino,24,2000,1.0,1,1.03,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+42,Raoul Bellanova,ITA,DF,Atalanta,24,2000,3.3,6,1.81,6,0,0,0,0,0,1,0.3,1,0,0,0,0,0
+43,Andrea Belotti,ITA,FW,Como,30,1993,2.2,5,2.25,4,0,0,0,1,0,0,0.0,0,0,0,0,0,0
+44,Lucas Beltrán,ARG,"MF,FW",Fiorentina,23,2001,1.0,2,2.02,2,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+45,Ismaël Bennacer,ALG,MF,Milan,26,1997,0.6,2,3.1,1,1,0,0,0,0,0,0.0,0,0,0,0,0,0
+46,Medon Berisha,ALB,"MF,FW",Lecce,20,2003,0.9,6,6.51,4,2,0,0,0,0,0,0.0,0,0,0,0,0,0
+47,Adrian Bernabe,ESP,MF,Parma,23,2001,4.9,21,4.31,16,4,0,0,1,0,1,0.21,1,0,0,0,0,0
+48,Sam Beukema,NED,DF,Bologna,25,1998,5.5,7,1.27,5,0,0,2,0,0,1,0.18,0,0,0,1,0,0
+49,Alessandro Bianco,ITA,MF,Monza,21,2002,2.1,5,2.37,5,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+50,Alessandro Bianco,ITA,MF,Fiorentina,21,2002,0.2,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+51,Jaka Bijol,SVN,DF,Udinese,25,1999,6.0,3,0.5,2,1,0,0,0,0,0,0.0,0,0,0,0,0,0
+52,Cristiano Biraghi,ITA,DF,Fiorentina,32,1992,4.5,7,1.56,2,5,0,0,0,0,0,0.0,0,0,0,0,0,0
+53,Samuele Birindelli,ITA,DF,Monza,25,1999,1.9,3,1.55,2,0,0,1,0,0,0,0.0,0,0,0,0,0,0
+54,Emil Bohinen,NOR,MF,Genoa,25,1999,0.8,4,4.68,3,0,0,0,1,0,0,0.0,0,0,0,0,0,0
+55,Warren Bondo,FRA,MF,Monza,21,2003,5.1,4,0.78,3,0,0,0,1,0,0,0.0,0,0,0,0,0,0
+56,Ange-Yoan Bonny,FRA,FW,Parma,20,2003,4.3,17,3.92,12,0,2,1,2,0,3,0.69,1,0,1,0,1,0
+57,Edoardo Bove,ITA,MF,Fiorentina,22,2002,3.2,13,4.09,9,1,0,1,2,0,2,0.63,2,0,0,0,0,0
+58,Domagoj Bradarić,CRO,MF,Hellas Verona,24,1999,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+59,Matthias Braunöder,AUT,MF,Como,22,2002,1.5,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+60,Iker Bravo,ESP,MF,Udinese,19,2005,0.5,1,2.09,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+61,Gleison Bremer,BRA,DF,Juventus,27,1997,6.0,3,0.5,2,0,1,0,0,0,0,0.0,0,0,0,0,0,0
+62,Brenner,BRA,"MF,FW",Udinese,24,2000,3.6,8,2.2,7,1,0,0,0,0,1,0.27,1,0,0,0,0,0
+63,Marco Brescianini,ITA,MF,Atalanta,24,2000,4.1,6,1.48,6,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+64,Alessandro Buongiorno,ITA,DF,Napoli,25,1999,5.0,5,1.0,5,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+65,Gianluca Busio,USA,MF,Venezia,22,2002,2.8,10,3.52,7,0,0,2,1,0,1,0.35,0,0,0,1,0,0
+66,Liberato Cacace,NZL,"DF,MF",Empoli,24,2000,0.7,3,4.09,3,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+67,Davide Calabria,ITA,DF,Milan,27,1996,1.6,3,1.82,3,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+68,Luca Caldirola,ITA,DF,Monza,33,1991,2.1,1,0.47,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+69,Hakan Çalhanoğlu,TUR,MF,Inter,30,1994,4.1,16,3.92,14,1,0,0,0,1,1,0.25,1,0,0,0,0,0
+70,Drissa Camara,CIV,FW,Parma,22,2002,0.3,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+71,Nicolò Cambiaghi,ITA,FW,Bologna,23,2000,0.2,1,6.0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0
+72,Andrea Cambiaso,ITA,"DF,FW",Juventus,24,2000,5.1,13,2.54,11,0,1,0,0,1,1,0.2,1,0,0,0,0,0
+73,Matteo Cancellieri,ITA,"FW,MF",Parma,22,2002,1.7,4,2.31,2,0,0,0,2,0,0,0.0,0,0,0,0,0,0
+74,Antonio Candela,ITA,DF,Venezia,24,2000,4.9,8,1.64,5,1,1,0,0,1,1,0.21,1,0,0,0,0,0
+75,Gianluca Caprari,ITA,MF,Monza,31,1993,2.2,5,2.22,3,2,0,0,0,0,1,0.44,1,0,0,0,0,0
+76,Elia Caprile,ITA,GK,Napoli,23,2001,1.6,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+77,Francesco Caputo,ITA,FW,Empoli,37,1987,0.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+78,Andrea Carboni,ITA,DF,Monza,23,2001,3.9,2,0.52,2,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+79,Franco Carboni,ITA,DF,Venezia,21,2003,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+80,Marco Carnesecchi,ITA,GK,Atalanta,24,2000,5.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+81,Nicolò Casale,ITA,DF,Bologna,26,1998,1.8,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+82,Nicolò Casale,ITA,DF,Lazio,26,1998,1.5,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+83,Federico Cassa,ITA,"MF,FW",Atalanta,18,2006,0.2,1,6.43,0,0,0,0,1,0,0,0.0,0,0,0,0,0,0
+84,Valentín Castellanos,ARG,FW,Lazio,25,1998,4.6,12,2.6,5,0,1,4,1,1,4,0.87,0,0,1,1,1,1
+85,Santiago Castro,ARG,FW,Bologna,20,2004,5.0,15,3.01,8,0,4,1,1,1,4,0.8,2,0,2,0,0,0
+86,Gaetano Castrovilli,ITA,MF,Lazio,27,1997,1.0,2,2.02,2,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+87,Danilo Cataldi,ITA,MF,Fiorentina,30,1994,3.3,4,1.23,2,1,0,0,0,1,1,0.31,0,1,0,0,0,0
+88,Zeki Çelik,TUR,DF,Roma,27,1997,4.8,6,1.24,5,1,0,0,0,0,0,0.0,0,0,0,0,0,0
+89,Alberto Cerri,ITA,FW,Como,28,1996,0.7,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+90,Gabriel Charpentier,CGO,FW,Parma,25,1999,0.2,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+91,Walid Cheddira,MAR,FW,Napoli,26,1998,0.1,1,7.5,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+92,Leandro Chichizola,ARG,GK,Parma,34,1990,1.0,2,2.0,1,1,0,0,0,0,0,0.0,0,0,0,0,0,0
+93,Samuel Chukwueze,NGA,FW,Milan,25,1999,2.0,5,2.54,5,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+94,Aaron Ciammaglichella,ITA,MF,Torino,19,2005,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+95,Alessandro Circati,AUS,DF,Parma,20,2003,4.0,1,0.25,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+96,Alphadjo Cissè,ITA,MF,Hellas Verona,17,2006,0.0,1,45.0,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+97,Saúl Coco,EQG,DF,Torino,25,1999,5.0,2,0.4,2,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+98,Lorenzo Colombo,ITA,"FW,MF",Empoli,22,2002,4.7,8,1.71,3,0,2,2,1,0,1,0.21,0,0,0,1,0,0
+99,Andrea Colpani,ITA,"MF,FW",Fiorentina,25,1999,4.2,10,2.41,8,1,0,1,0,0,0,0.0,0,0,0,0,0,0
+100,Pietro Comuzzo,ITA,DF,Fiorentina,19,2005,4.5,2,0.44,2,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+101,Francisco Conceição,POR,FW,Juventus,21,2002,0.8,3,3.65,2,0,0,1,0,0,0,0.0,0,0,0,0,0,0
+102,Diego Coppola,ITA,DF,Hellas Verona,20,2003,6.0,1,0.17,1,0,0,0,0,0,1,0.17,1,0,0,0,0,0
+103,Joaquín Correa,ARG,"MF,FW",Inter,30,1994,0.2,2,7.83,2,0,0,0,0,0,1,3.91,1,0,0,0,0,0
+104,Lassana Coulibaly,MLI,MF,Lecce,28,1996,2.8,10,3.5,10,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+105,Woyo Coulibaly,FRA,DF,Parma,25,1999,5.0,5,1.0,5,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+106,Bryan Cristante,ITA,MF,Roma,29,1995,5.6,10,1.79,9,0,0,1,0,0,1,0.18,1,0,0,0,0,0
+107,Domen Črnigoj,SVN,MF,Venezia,28,1995,0.4,2,4.86,1,0,0,0,1,0,0,0.0,0,0,0,0,0,0
+108,Juan Cuadrado,COL,DF,Atalanta,36,1988,0.7,5,7.03,5,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+109,Patrick Cutrone,ITA,FW,Como,26,1998,5.2,13,2.48,7,0,1,4,0,1,0,0.0,0,0,0,0,0,0
+110,Wylan Cyprien,FRA,MF,Parma,29,1995,0.3,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+111,Danilo D'Ambrosio,ITA,DF,Monza,36,1988,0.3,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+112,Lucas Da Cunha,FRA,"MF,FW",Como,23,2001,2.2,10,4.5,8,1,0,1,0,0,1,0.45,1,0,0,0,0,0
+113,Thijs Dallinga,NED,"FW,MF",Bologna,24,2000,1.3,2,1.53,2,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+114,Flavius Daniliuc,AUT,DF,Hellas Verona,23,2001,2.8,2,0.72,2,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+115,Danilo,BRA,DF,Juventus,33,1991,1.1,2,1.87,2,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+116,Matteo Darmian,ITA,DF,Inter,34,1989,4.4,8,1.8,5,1,0,0,1,1,2,0.45,2,0,0,0,0,0
+117,Juan David Cabal,COL,DF,Juventus,23,2001,2.3,1,0.43,1,0,0,0,0,0,1,0.43,1,0,0,0,0,0
+118,Keinan Davis,ENG,FW,Udinese,26,1998,1.8,8,4.31,7,0,0,1,0,0,1,0.54,0,0,0,1,0,0
+119,Paweł Dawidowicz,POL,DF,Hellas Verona,29,1995,4.2,1,0.24,1,0,0,0,0,0,1,0.24,1,0,0,0,0,0
+120,Charles De Ketelaere,BEL,"FW,MF",Atalanta,23,2001,4.5,20,4.49,16,0,1,2,1,0,4,0.9,4,0,0,0,0,0
+121,Mattia De Sciglio,ITA,DF,Empoli,31,1992,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+122,Lorenzo De Silvestri,ITA,DF,Bologna,36,1988,1.0,2,2.09,1,1,0,0,0,0,0,0.0,0,0,0,0,0,0
+123,Koni De Winter,BEL,DF,Genoa,22,2002,6.0,3,0.5,2,0,0,0,0,1,0,0.0,0,0,0,0,0,0
+124,Alessandro Deiola,ITA,MF,Cagliari,29,1995,4.2,9,2.12,7,1,0,0,1,0,0,0.0,0,0,0,0,0,0
+125,Enrico Del Prato,ITA,DF,Parma,24,1999,3.2,7,2.22,7,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+126,Fisayo Dele-Bashiru,NGA,MF,Lazio,23,2001,1.8,6,3.4,3,0,2,1,0,0,0,0.0,0,0,0,0,0,0
+127,Ali Dembélé,FRA,DF,Torino,20,2004,0.6,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+128,Michele Di Gregorio,ITA,GK,Juventus,27,1997,4.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+129,Giovanni Di Lorenzo,ITA,DF,Napoli,31,1993,6.0,19,3.17,18,1,0,0,0,0,1,0.17,1,0,0,0,0,0
+130,Boulaye Dia,SEN,"FW,MF",Lazio,27,1996,3.7,10,2.69,7,0,2,1,0,0,1,0.27,1,0,0,0,0,0
+131,Federico Dimarco,ITA,DF,Inter,26,1997,5.3,29,5.45,16,6,2,4,1,0,1,0.19,1,0,0,0,0,0
+132,Berat Djimsiti,ALB,DF,Atalanta,31,1993,6.0,6,1.0,5,0,0,1,0,0,1,0.17,1,0,0,0,0,0
+133,Dodô,BRA,DF,Fiorentina,25,1998,6.0,23,3.83,20,0,0,1,2,0,2,0.33,1,0,0,0,1,0
+134,Patrick Dorgu,DEN,"FW,DF",Lecce,19,2004,4.5,15,3.34,8,0,1,1,4,1,1,0.22,0,0,0,0,1,0
+135,Alberto Dossena,ITA,DF,Como,25,1998,4.7,3,0.64,1,0,1,1,0,0,1,0.21,0,0,0,1,0,0
+136,Issa Doumbia,CIV,MF,Venezia,20,2003,1.0,2,2.12,1,0,0,0,0,1,1,1.06,1,0,0,0,0,0
+137,Artem Dovbyk,UKR,FW,Roma,27,1997,5.8,10,1.73,7,0,1,2,0,0,1,0.17,1,0,0,0,0,0
+138,Ondrej Duda,SVK,MF,Hellas Verona,29,1994,3.4,6,1.77,3,1,0,0,2,0,2,0.59,2,0,0,0,0,0
+139,Denzel Dumfries,NED,DF,Inter,28,1996,1.6,3,1.91,3,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+140,Alfred Duncan,GHA,MF,Venezia,31,1993,3.7,7,1.89,5,2,0,0,0,0,0,0.0,0,0,0,0,0,0
+141,Paulo Dybala,ARG,"FW,MF",Roma,30,1993,3.2,20,6.32,12,4,0,2,2,0,1,0.32,0,0,0,0,1,0
+142,Éderson,BRA,MF,Atalanta,25,1999,5.8,12,2.08,9,0,1,1,0,1,2,0.35,2,0,0,0,0,0
+143,Kingsley Ehizibue,NED,DF,Udinese,29,1995,6.0,12,2.0,9,1,0,1,0,1,1,0.17,1,0,0,0,0,0
+144,Jeff Ekhator,ITA,"FW,MF",Genoa,17,2006,0.4,6,15.43,4,0,0,1,1,0,0,0.0,0,0,0,0,0,0
+145,Jurgen Ekkelenkamp,NED,MF,Udinese,24,2000,2.2,4,1.8,3,0,0,1,0,0,1,0.45,0,0,0,1,0,0
+146,Emmanuel Ekong,SWE,"MF,FW",Empoli,22,2002,0.4,5,11.25,2,0,3,0,0,0,0,0.0,0,0,0,0,0,0
+147,Caleb Ekuban,GHA,FW,Genoa,30,1994,2.3,2,0.86,2,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+148,Mikael Ellertsson,ISL,MF,Venezia,22,2002,4.4,17,3.83,12,0,2,1,2,0,2,0.45,2,0,0,0,0,0
+149,Emerson,BRA,DF,Milan,25,1999,4.0,8,1.98,8,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+150,Yannik Engelhardt,GER,MF,Como,23,2001,0.8,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+151,Martin Erlic,CRO,DF,Bologna,26,1998,1.5,1,0.69,0,0,0,0,1,0,1,0.69,0,0,0,0,1,0
+152,Sebastiano Esposito,ITA,"FW,MF",Empoli,22,2002,4.1,10,2.43,4,1,1,3,1,0,3,0.73,0,0,1,1,1,0
+153,Nahuel Estévez,ARG,MF,Parma,28,1995,1.8,3,1.66,3,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+154,Giovanni Fabbian,ITA,MF,Bologna,21,2003,2.8,1,0.35,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+155,Alieu Fadera,GAM,"FW,MF",Como,22,2001,2.8,9,3.24,6,0,2,1,0,0,2,0.72,1,0,1,0,0,0
+156,Nicolò Fagioli,ITA,MF,Juventus,23,2001,3.3,8,2.44,6,0,0,2,0,0,1,0.31,1,0,0,0,0,0
+157,Wladimiro Falcone,ITA,GK,Lecce,29,1995,6.0,1,0.17,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+158,Davide Faraoni,ITA,"MF,DF",Hellas Verona,32,1991,0.3,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+159,Jacopo Fazzini,ITA,MF,Empoli,21,2003,2.6,8,3.04,5,0,1,1,1,0,1,0.38,1,0,0,0,0,0
+160,Mattia Felici,ITA,DF,Cagliari,23,2001,0.3,2,7.83,0,0,2,0,0,0,0,0.0,0,0,0,0,0,0
+161,Youssouf Fofana,FRA,MF,Milan,25,1999,3.8,7,1.83,7,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+162,Michael Folorunsho,ITA,FW,Napoli,26,1998,0.2,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+163,Omari Forson,ENG,"MF,FW",Monza,20,2004,0.2,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+164,Davide Frattesi,ITA,MF,Inter,24,1999,2.9,3,1.05,2,0,1,0,0,0,1,0.35,1,0,0,0,0,0
+165,Morten Frendrup,DEN,MF,Genoa,23,2001,5.8,6,1.04,5,0,0,0,0,1,0,0.0,0,0,0,0,0,0
+166,Martin Frese,DEN,DF,Hellas Verona,26,1998,3.7,7,1.87,5,2,0,0,0,0,0,0.0,0,0,0,0,0,0
+167,Remo Freuler,SUI,MF,Bologna,32,1992,6.0,14,2.33,13,0,0,0,0,1,1,0.17,1,0,0,0,0,0
+168,Matteo Gabbia,ITA,DF,Milan,24,1999,3.0,1,0.33,1,0,0,0,0,0,1,0.33,1,0,0,0,0,0
+169,Alessandro Gabrielloni,ITA,"FW,MF",Como,30,1994,0.6,3,4.74,2,0,0,1,0,0,0,0.0,0,0,0,0,0,0
+170,Gianluca Gaetano,ITA,MF,Cagliari,24,2000,0.9,8,9.23,4,0,1,2,1,0,0,0.0,0,0,0,0,0,0
+171,Roberto Gagliardini,ITA,"MF,DF",Monza,30,1994,1.0,3,3.03,1,1,0,0,1,0,0,0.0,0,0,0,0,0,0
+172,Antonino Gallo,ITA,DF,Lecce,24,2000,5.9,20,3.36,14,5,1,0,0,0,0,0.0,0,0,0,0,0,0
+173,Gaspar,ANG,DF,Lecce,27,1997,6.0,7,1.17,5,0,0,2,0,0,1,0.17,1,0,0,0,0,0
+174,Federico Gatti,ITA,DF,Juventus,26,1998,3.9,2,0.51,0,0,0,1,0,1,0,0.0,0,0,0,0,0,0
+175,David de Gea,ESP,GK,Fiorentina,33,1990,3.0,1,0.33,0,1,0,0,0,0,0,0.0,0,0,0,0,0,0
+176,Valentin Gendrey,FRA,DF,Lecce,24,2000,2.0,3,1.5,2,1,0,0,0,0,0,0.0,0,0,0,0,0,0
+177,Lautaro Gianetti,ARG,DF,Udinese,30,1993,3.3,1,0.3,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+178,Mario Gila,ESP,DF,Lazio,24,2000,3.0,4,1.33,4,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+179,Billy Gilmour,SCO,MF,Napoli,23,2001,0.2,2,8.18,2,0,0,0,0,0,1,4.09,1,0,0,0,0,0
+180,Gvidas Gineitis,LTU,MF,Torino,20,2004,0.5,1,2.2,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0
+181,Ben Godfrey,ENG,DF,Atalanta,26,1998,0.3,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+182,Saba Goglichidze,GEO,DF,Empoli,20,2004,4.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+183,Edoardo Goldaniga,ITA,DF,Como,30,1993,1.4,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+184,Pierluigi Gollini,ITA,GK,Genoa,29,1995,6.0,4,0.67,1,3,0,0,0,0,0,0.0,0,0,0,0,0,0
+185,Nicolás González,ARG,FW,Juventus,26,1998,2.5,4,1.6,4,0,0,0,0,0,1,0.4,1,0,0,0,0,0
+186,Robin Gosens,GER,DF,Fiorentina,30,1994,4.0,16,4.03,12,1,1,2,0,0,2,0.5,0,0,0,2,0,0
+187,Alberto Grassi,ITA,MF,Empoli,29,1995,3.3,4,1.21,4,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+188,Mattéo Guendouzi,FRA,MF,Lazio,25,1999,6.0,14,2.35,12,1,0,1,0,0,0,0.0,0,0,0,0,0,0
+189,Frederic Guilbert,FRA,DF,Lecce,29,1994,2.3,3,1.29,2,0,0,0,0,1,0,0.0,0,0,0,0,0,0
+190,Albert Guðmundsson,ISL,MF,Fiorentina,27,1997,1.3,4,3.13,1,0,1,1,1,0,1,0.78,0,0,0,0,1,0
+191,Emmanuel Gyasi,GHA,"DF,FW",Empoli,30,1994,6.0,6,1.0,5,1,0,0,0,0,0,0.0,0,0,0,0,0,0
+192,Christian Gytkjær,DEN,FW,Venezia,34,1990,1.7,1,0.59,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+193,Nicolas Haas,SUI,MF,Empoli,28,1996,1.1,3,2.76,3,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+194,Saad El Haddad,MAR,MF,Venezia,19,2005,0.2,1,6.0,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+195,Antoine Hainaut,FRA,"DF,FW",Parma,22,2002,0.6,4,6.55,3,0,0,1,0,0,1,1.64,1,0,0,0,0,0
+196,Mohamed Haj,TUN,MF,Parma,19,2005,0.3,2,7.5,1,0,0,1,0,0,2,7.5,1,0,0,1,0,0
+197,Ridgeciano Haps,SUR,DF,Venezia,31,1993,2.3,5,2.18,3,0,1,1,0,0,0,0.0,0,0,0,0,0,0
+198,Abdou Harroui,NED,"FW,MF",Hellas Verona,26,1998,1.9,5,2.65,4,0,1,0,0,0,1,0.53,1,0,0,0,0,0
+199,Liam Henderson,SCO,MF,Empoli,28,1996,5.8,14,2.41,9,4,1,0,0,0,1,0.17,1,0,0,0,0,0
+200,Mario Hermoso,ESP,DF,Roma,29,1995,0.6,1,1.64,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+201,Theo Hernández,FRA,DF,Milan,26,1997,4.4,18,4.09,11,4,1,1,0,1,3,0.68,1,1,0,0,0,1
+202,Hernani,BRA,MF,Parma,30,1994,1.0,5,5.17,4,1,0,0,0,0,0,0.0,0,0,0,0,0,0
+203,Isak Hien,SWE,DF,Atalanta,25,1999,2.3,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+204,Emil Holm,SWE,MF,Bologna,24,2000,0.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+205,Elseid Hysaj,ALB,DF,Lazio,30,1994,0.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+206,Jay Idzes,IDN,DF,Venezia,24,2000,4.7,5,1.05,3,2,0,0,0,0,0,0.0,0,0,0,0,0,0
+207,Jonathan Ikone,FRA,"MF,FW",Fiorentina,26,1998,1.2,8,6.43,4,0,2,1,1,0,0,0.0,0,0,0,0,0,0
+208,Ivan Ilić,SRB,MF,Torino,23,2001,5.3,21,3.95,14,4,0,1,2,0,6,1.13,4,2,0,0,0,0
+209,Samuel Iling-Junior,ENG,"MF,FW",Bologna,20,2003,0.5,3,5.63,3,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+210,Alessio Iovine,ITA,DF,Como,33,1991,2.5,2,0.8,0,2,0,0,0,0,0,0.0,0,0,0,0,0,0
+211,Gustav Isaksen,DEN,"FW,MF",Lazio,23,2001,3.1,8,2.55,4,2,1,0,1,0,2,0.64,1,0,1,0,0,0
+212,Ardian Ismajli,ALB,DF,Empoli,28,1996,6.0,1,0.17,0,1,0,0,0,0,0,0.0,0,0,0,0,0,0
+213,Armando Izzo,ITA,DF,Monza,32,1992,5.6,4,0.71,4,0,0,0,0,0,1,0.18,1,0,0,0,0,0
+214,Ali Jasim,IRQ,FW,Como,20,2004,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+215,Gaby Jean,FRA,DF,Lecce,24,2000,0.2,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+216,Juan Jesus,BRA,DF,Napoli,33,1991,0.9,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+217,Jesse Joronen,FIN,GK,Venezia,31,1993,6.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+218,Luka Jović,SRB,FW,Milan,26,1997,0.9,1,1.14,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+219,Christian Kabasele,BEL,DF,Udinese,33,1991,3.4,1,0.29,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+220,Pierre Kalulu,FRA,DF,Juventus,24,2000,3.0,5,1.69,5,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+221,Hassane Kamara,CIV,DF,Udinese,30,1994,3.3,7,2.1,7,0,0,0,0,0,1,0.3,1,0,0,0,0,0
+222,Yann Karamoh,FRA,FW,Torino,26,1998,0.4,1,2.37,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+223,Jesper Karlsson,SWE,FW,Bologna,26,1998,0.9,2,2.22,2,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+224,Jesper Karlström,SWE,MF,Udinese,29,1995,5.2,7,1.35,6,0,0,0,0,1,0,0.0,0,0,0,0,0,0
+225,Lior Kasa,ISR,MF,Genoa,19,2005,0.2,3,12.27,2,1,0,0,0,0,0,0.0,0,0,0,0,0,0
+226,Grigoris Kastanos,CYP,"MF,FW",Hellas Verona,26,1998,2.8,4,1.43,3,1,0,0,0,0,2,0.72,1,1,0,0,0,0
+227,Michael Kayode,ITA,DF,Fiorentina,20,2004,0.2,2,10.0,0,0,2,0,0,0,0,0.0,0,0,0,0,0,0
+228,Moise Kean,ITA,FW,Fiorentina,24,2000,5.9,17,2.9,9,0,4,3,0,1,0,0.0,0,0,0,0,0,0
+229,Mandela Keita,BEL,MF,Parma,22,2002,0.2,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+230,Marc-Oliver Kempf,GER,DF,Como,29,1995,4.0,9,2.25,6,0,0,3,0,0,1,0.25,1,0,0,0,0,0
+231,Magnus Kofod Andersen,DEN,MF,Venezia,25,1999,3.0,8,2.7,5,2,0,1,0,0,1,0.34,0,0,0,1,0,0
+232,Sead Kolašinac,BIH,DF,Atalanta,31,1993,2.9,2,0.7,2,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+233,Manu Koné,FRA,MF,Roma,23,2001,1.9,9,4.66,6,0,0,1,2,0,0,0.0,0,0,0,0,0,0
+234,Teun Koopmeiners,NED,MF,Juventus,26,1998,3.5,12,3.43,11,1,0,0,0,0,1,0.29,1,0,0,0,0,0
+235,Odilon Kossounou,CIV,DF,Atalanta,23,2001,1.7,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+236,Christian Kouamé,CIV,"MF,FW",Fiorentina,26,1997,3.2,16,5.09,13,0,1,1,1,0,0,0.0,0,0,0,0,0,0
+237,Mateusz Kowalski,POL,MF,Parma,19,2005,0.6,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+238,Thomas Kristensen,DEN,DF,Udinese,22,2002,2.1,1,0.48,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+239,Nikola Krstović,MNE,FW,Lecce,24,2000,5.7,24,4.23,15,0,4,5,0,0,1,0.18,1,0,0,0,0,0
+240,Khvicha Kvaratskhelia,GEO,"MF,FW",Napoli,23,2001,4.9,26,5.28,19,3,1,1,2,0,3,0.61,3,0,0,0,0,0
+241,Giorgos Kyriakopoulos,GRE,DF,Monza,28,1996,6.0,15,2.5,8,4,1,1,1,0,1,0.17,1,0,0,0,0,0
+242,Mathis Lambourde,FRA,"DF,MF",Hellas Verona,18,2006,0.1,2,22.5,1,0,1,0,0,0,1,11.25,0,0,1,0,0,0
+243,Gianluca Lapadula,PER,"FW,MF",Cagliari,34,1990,1.0,7,7.0,3,0,1,3,0,0,0,0.0,0,0,0,0,0,0
+244,Valentino Lazaro,AUT,DF,Torino,28,1996,5.6,10,1.77,7,1,0,2,0,0,2,0.35,2,0,0,0,0,0
+245,Darko Lazović,SRB,"MF,DF",Hellas Verona,34,1990,4.7,8,1.69,4,2,0,1,1,0,4,0.85,1,1,0,1,1,0
+246,Manuel Lazzari,ITA,DF,Lazio,30,1993,5.1,12,2.35,12,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+247,Enzo Le Fée,FRA,MF,Roma,24,2000,1.0,5,5.06,3,1,1,0,0,0,0,0.0,0,0,0,0,0,0
+248,Rafael Leão,POR,FW,Milan,25,1999,4.9,27,5.52,14,1,6,3,3,0,6,1.23,3,0,1,0,2,0
+249,Nunzio Lella,ITA,MF,Venezia,24,2000,0.1,1,15.0,0,0,0,0,1,0,0,0.0,0,0,0,0,0,0
+250,Karol Linetty,POL,MF,Torino,29,1995,3.9,7,1.77,6,0,0,0,0,1,0,0.0,0,0,0,0,0,0
+251,Dailon Livramento,CPV,"FW,MF",Hellas Verona,23,2001,1.8,4,2.17,2,0,0,0,1,1,0,0.0,0,0,0,0,0,0
+252,Stanislav Lobotka,SVK,MF,Napoli,29,1994,5.8,15,2.61,15,0,0,0,0,0,2,0.35,2,0,0,0,0,0
+253,Manuel Locatelli,ITA,MF,Juventus,26,1998,4.3,10,2.31,8,1,0,0,0,1,3,0.69,1,1,0,0,0,1
+254,Ruben Loftus-Cheek,ENG,MF,Milan,28,1996,4.5,19,4.19,15,0,1,1,2,0,2,0.44,1,0,0,0,1,0
+255,Ademola Lookman,NGA,"MF,FW",Atalanta,26,1997,2.4,16,6.67,7,2,6,1,0,0,2,0.83,1,0,1,0,0,0
+256,Sandi Lovrić,SVN,MF,Udinese,26,1998,3.5,13,3.76,11,1,1,0,0,0,2,0.58,2,0,0,0,0,0
+257,Lorenzo Lucca,ITA,FW,Udinese,24,2000,4.3,4,0.94,3,0,1,0,0,0,1,0.24,0,0,1,0,0,0
+258,Jhon Lucumí,COL,DF,Bologna,26,1998,3.4,3,0.89,3,0,0,0,0,0,1,0.3,1,0,0,0,0,0
+259,José Luis Palomino,ARG,DF,Cagliari,34,1990,0.8,2,2.61,2,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+260,Douglas Luiz,BRA,MF,Juventus,26,1998,1.7,8,4.68,5,3,0,0,0,0,0,0.0,0,0,0,0,0,0
+261,Romelu Lukaku,BEL,FW,Napoli,31,1993,2.9,9,3.13,7,0,0,1,1,0,2,0.69,2,0,0,0,0,0
+262,Sebastiano Luperto,ITA,DF,Cagliari,28,1996,5.0,8,1.6,6,0,0,2,0,0,1,0.2,1,0,0,0,0,0
+263,Zito Luvumbo,ANG,"FW,MF",Cagliari,22,2002,4.2,10,2.4,7,1,1,0,1,0,0,0.0,0,0,0,0,0,0
+264,Charalambos Lykogiannis,GRE,DF,Bologna,30,1993,3.6,6,1.66,4,2,0,0,0,0,1,0.28,1,0,0,0,0,0
+265,Giangiacomo Magnani,ITA,DF,Hellas Verona,28,1995,2.3,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+266,Mike Maignan,FRA,GK,Milan,29,1995,6.0,1,0.17,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+267,Antoine Makoumbou,CGO,MF,Cagliari,26,1998,0.7,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+268,Daniel Maldini,ITA,MF,Monza,22,2001,4.7,7,1.49,3,0,2,1,1,0,2,0.43,1,0,0,1,0,0
+269,Youssef Maleh,MAR,MF,Empoli,26,1998,3.0,2,0.68,1,0,0,0,1,0,0,0.0,0,0,0,0,0,0
+270,Ruslan Malinovskyi,UKR,"MF,FW",Genoa,31,1993,2.5,8,3.21,4,1,0,2,1,0,0,0.0,0,0,0,0,0,0
+271,Dennis Man,ROU,FW,Parma,26,1998,4.3,21,4.9,14,3,3,0,0,1,2,0.47,1,1,0,0,0,0
+272,Gianluca Mancini,ITA,DF,Roma,28,1996,5.6,11,1.95,10,0,0,1,0,0,0,0.0,0,0,0,0,0,0
+273,Rolando Mandragora,ITA,MF,Fiorentina,27,1997,3.0,8,2.7,6,1,0,0,1,0,0,0.0,0,0,0,0,0,0
+274,Alberto Manzoni,ITA,MF,Atalanta,19,2005,0.1,1,15.0,0,0,0,0,1,0,0,0.0,0,0,0,0,0,0
+275,Filip Marchwiński,POL,MF,Lecce,22,2002,0.2,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+276,Pablo Marí,ESP,DF,Monza,31,1993,6.0,4,0.67,4,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+277,Mirko Marić,CRO,FW,Monza,29,1995,0.1,1,9.0,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+278,Răzvan Marin,ROU,MF,Cagliari,28,1996,4.6,22,4.76,10,9,0,3,0,0,0,0.0,0,0,0,0,0,0
+279,Guillermo Maripán,CHI,DF,Torino,30,1994,1.1,1,0.87,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+280,Aarón Martín,ESP,DF,Genoa,27,1997,5.0,21,4.2,11,8,0,1,1,0,1,0.2,1,0,0,0,0,0
+281,Lautaro Martínez,ARG,FW,Inter,27,1997,4.4,13,2.95,11,0,1,1,0,0,2,0.45,1,0,1,0,0,0
+282,Lucas Martínez Quarta,ARG,DF,Fiorentina,28,1996,2.4,3,1.23,3,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+283,Kevin Martins,ITA,DF,Monza,19,2005,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+284,Adam Marušić,MNE,DF,Lazio,31,1992,2.8,2,0.72,1,1,0,0,0,0,0,0.0,0,0,0,0,0,0
+285,Adam Masina,MAR,DF,Torino,30,1994,6.0,6,1.0,6,0,0,0,0,0,2,0.33,2,0,0,0,0,0
+286,Alan Matturro,URU,DF,Genoa,19,2004,0.2,1,4.09,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+287,Luca Mazzitelli,ITA,MF,Como,28,1995,1.9,8,4.29,6,0,1,0,0,1,1,0.54,1,0,0,0,0,0
+288,Pasquale Mazzocchi,ITA,DF,Napoli,29,1995,3.9,12,3.09,12,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+289,Samuel Mbangula,BEL,FW,Juventus,20,2004,2.5,6,2.38,5,0,0,0,1,0,3,1.19,2,0,0,0,1,0
+290,Weston McKennie,USA,MF,Juventus,26,1998,1.8,3,1.65,2,0,0,0,1,0,1,0.55,1,0,0,0,0,0
+291,Scott McTominay,SCO,MF,Napoli,27,1996,2.2,2,0.91,1,0,0,1,0,0,1,0.46,0,0,0,1,0,0
+292,Alex Meret,ITA,GK,Napoli,27,1997,4.4,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+293,Junior Messias,BRA,"MF,FW",Genoa,33,1991,2.9,11,3.74,5,0,2,2,2,0,1,0.34,0,0,0,1,0,0
+294,Valentin Mihaila,ROU,"FW,MF",Parma,24,2000,4.0,14,3.54,9,1,1,1,2,0,2,0.51,2,0,0,0,0,0
+295,Vanja Milinković-Savić,SRB,GK,Torino,27,1997,5.0,2,0.4,0,2,0,0,0,0,0,0.0,0,0,0,0,0,0
+296,Yerry Mina,COL,DF,Cagliari,30,1994,3.7,6,1.61,5,0,0,1,0,0,0,0.0,0,0,0,0,0,0
+297,Juan Miranda,ESP,DF,Bologna,24,2000,2.4,8,3.35,3,4,0,0,1,0,0,0.0,0,0,0,0,0,0
+298,Fabio Miretti,ITA,MF,Genoa,21,2003,0.8,2,2.65,2,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+299,Henrikh Mkhitaryan,ARM,MF,Inter,35,1989,5.0,9,1.79,9,0,0,0,0,0,1,0.2,1,0,0,0,0,0
+300,Lorenzo Montipò,ITA,GK,Hellas Verona,28,1996,6.0,1,0.17,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+301,Álvaro Morata,ESP,"MF,FW",Milan,31,1992,2.1,6,2.84,5,0,0,0,0,1,0,0.0,0,0,0,0,0,0
+302,Alberto Moreno,ESP,DF,Como,32,1992,6.0,12,2.0,11,1,0,0,0,0,1,0.17,1,0,0,0,0,0
+303,Tete Morente,ESP,"FW,MF",Lecce,27,1996,3.4,11,3.21,10,0,0,0,0,1,1,0.29,1,0,0,0,0,0
+304,Nikola Moro,CRO,MF,Bologna,26,1998,2.6,9,3.51,7,1,0,1,0,0,1,0.39,0,0,0,1,0,0
+305,Daniel Mosquera,COL,"FW,MF",Hellas Verona,24,1999,2.2,5,2.28,4,0,0,1,0,0,1,0.46,1,0,0,0,0,0
+306,Dany Mota,POR,MF,Monza,26,1998,2.2,4,1.78,2,0,1,0,1,0,0,0.0,0,0,0,0,0,0
+307,Yunus Musah,USA,MF,Milan,21,2002,1.7,7,4.2,4,0,1,2,0,0,1,0.6,1,0,0,0,0,0
+308,Juan Musso,ARG,GK,Atalanta,30,1994,1.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+309,Kingstone Mutandwa,ZAM,MF,Cagliari,21,2003,0.4,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+310,Obite N'Dicka,CIV,DF,Roma,25,1999,6.0,5,0.83,5,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+311,Michel Ndary Adopo,FRA,MF,Cagliari,24,2000,1.1,4,3.79,3,0,0,1,0,0,0,0.0,0,0,0,0,0,0
+312,Dan Ndoye,SUI,"FW,MF",Bologna,23,2000,3.7,12,3.24,8,0,0,2,2,0,1,0.27,1,0,0,0,0,0
+313,David Neres,BRA,"MF,FW",Napoli,27,1997,0.6,5,7.89,3,1,1,0,0,0,4,6.32,2,1,1,0,0,0
+314,Cyril Ngonge,BEL,DF,Napoli,24,2000,0.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+315,Hans Nicolussi Caviglia,ITA,MF,Venezia,24,2000,2.6,7,2.7,6,1,0,0,0,0,0,0.0,0,0,0,0,0,0
+316,Eybi Nije,SWE,DF,Torino,19,2005,0.3,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+317,Tijjani Noslin,NED,"FW,MF",Lazio,25,1999,2.6,9,3.49,8,0,0,0,1,0,1,0.39,1,0,0,0,0,0
+318,Adam Obert,SVK,DF,Cagliari,22,2002,0.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+319,Jens Odgaard,DEN,"FW,MF",Bologna,25,1999,2.4,6,2.49,3,0,2,1,0,0,1,0.41,0,0,0,1,0,0
+320,Noah Okafor,SUI,FW,Milan,24,2000,2.3,1,0.44,1,0,0,0,0,0,1,0.44,1,0,0,0,0,0
+321,Maduka Okoye,NGA,GK,Udinese,25,1999,6.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+322,Mathías Olivera,URU,DF,Napoli,26,1997,4.2,10,2.36,10,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+323,Gaetano Oristanio,ITA,"MF,FW",Venezia,22,2002,4.2,14,3.32,8,2,2,1,1,0,0,0.0,0,0,0,0,0,0
+324,Riccardo Orsolini,ITA,"FW,MF",Bologna,27,1997,3.7,9,2.43,6,0,0,3,0,0,0,0.0,0,0,0,0,0,0
+325,Yordan Osorio,VEN,DF,Parma,30,1994,0.9,1,1.1,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+326,Remi Oudin,FRA,"MF,FW",Lecce,27,1996,0.9,5,5.36,3,1,0,1,0,0,1,1.07,1,0,0,0,0,0
+327,Alberto Paleari,ITA,GK,Torino,32,1992,1.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+328,Marco Palestra,ITA,DF,Atalanta,19,2005,0.4,3,7.71,2,0,0,0,0,1,0,0.0,0,0,0,0,0,0
+329,Leandro Paredes,ARG,MF,Roma,30,1994,1.2,6,5.19,4,1,0,1,0,0,1,0.87,0,1,0,0,0,0
+330,Fabiano Parisi,ITA,DF,Fiorentina,23,2000,1.4,1,0.73,0,0,1,0,0,0,0,0.0,0,0,0,0,0,0
+331,Mario Pašalić,CRO,MF,Atalanta,29,1995,3.9,20,5.19,17,0,0,2,0,1,2,0.52,2,0,0,0,0,0
+332,Patric,ESP,DF,Lazio,31,1993,2.5,7,2.8,7,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+333,Benjamin Pavard,FRA,DF,Inter,28,1996,4.0,5,1.25,4,0,0,0,1,0,0,0.0,0,0,0,0,0,0
+334,Strahinja Pavlović,SRB,DF,Milan,23,2001,3.0,2,0.66,2,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+335,Leonardo Pavoletti,ITA,"FW,MF",Cagliari,35,1988,1.1,8,7.35,7,0,0,1,0,0,0,0.0,0,0,0,0,0,0
+336,Martín Payero,ARG,MF,Udinese,26,1998,2.4,9,3.82,5,0,2,0,1,1,1,0.42,1,0,0,0,0,0
+337,Nicolás Paz,ARG,"MF,FW",Como,20,2004,3.6,23,6.31,13,3,4,1,1,1,3,0.82,3,0,0,0,0,0
+338,Marcus Pedersen,NOR,DF,Torino,24,2000,1.3,1,0.76,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+339,Pedro,ESP,"MF,FW",Lazio,37,1987,0.3,2,6.67,2,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+340,Pietro Pellegri,ITA,"FW,MF",Empoli,23,2001,0.8,2,2.65,2,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+341,Lorenzo Pellegrini,ITA,MF,Roma,28,1996,4.9,20,4.13,10,6,1,2,1,0,1,0.21,1,0,0,0,0,0
+342,Luca Pellegrini,ITA,DF,Lazio,25,1999,0.3,3,11.74,2,1,0,0,0,0,1,3.91,1,0,0,0,0,0
+343,Andy Pelmard,FRA,DF,Lecce,24,2000,0.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+344,Pedro Pereira,POR,DF,Monza,26,1998,3.8,2,0.52,2,0,0,0,0,0,1,0.26,1,0,0,0,0,0
+345,Nehuén Pérez,ARG,DF,Udinese,24,2000,2.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+346,Mattia Perin,ITA,GK,Juventus,31,1992,2.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+347,Máximo Perrone,ARG,MF,Como,21,2003,4.3,13,3.0,13,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+348,Matteo Pessina,ITA,MF,Monza,27,1997,5.5,5,0.91,5,0,0,0,0,0,1,0.18,1,0,0,0,0,0
+349,Andrea Petagna,ITA,FW,Monza,29,1995,2.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+350,Giuseppe Pezzella,ITA,"DF,FW",Empoli,26,1997,5.5,9,1.65,5,4,0,0,0,0,1,0.18,1,0,0,0,0,0
+351,Roberto Piccoli,ITA,FW,Cagliari,23,2001,4.4,8,1.82,4,0,0,1,3,0,0,0.0,0,0,0,0,0,0
+352,Nicholas Pierini,ITA,MF,Venezia,26,1998,0.9,2,2.17,1,1,0,0,0,0,0,0.0,0,0,0,0,0,0
+353,Santiago Pierotti,ARG,"FW,MF",Lecce,23,2001,1.4,6,4.19,4,0,2,0,0,0,0,0.0,0,0,0,0,0,0
+354,Balthazar Pierret,FRA,MF,Lecce,24,2000,3.9,8,2.07,7,0,0,0,0,1,0,0.0,0,0,0,0,0,0
+355,Andrea Pinamonti,ITA,"FW,MF",Genoa,25,1999,4.2,3,0.71,2,0,0,1,0,0,0,0.0,0,0,0,0,0,0
+356,Niccolò Pisilli,ITA,MF,Roma,20,2004,2.5,13,5.22,11,0,0,1,1,0,2,0.8,1,0,0,1,0,0
+357,Semuel Pizzignacco,ITA,GK,Monza,23,2001,2.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+358,Tommaso Pobega,ITA,MF,Bologna,25,1999,1.0,2,2.0,1,0,0,0,1,0,0,0.0,0,0,0,0,0,0
+359,Joel Pohjanpalo,FIN,FW,Venezia,30,1994,3.6,10,2.76,8,0,0,1,1,0,0,0.0,0,0,0,0,0,0
+360,Matteo Politano,ITA,"MF,FW",Napoli,31,1993,5.4,24,4.47,17,6,0,1,0,0,2,0.37,2,0,0,0,0,0
+361,Marin Pongračić,CRO,DF,Fiorentina,27,1997,1.0,2,1.96,2,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+362,Stefan Posch,AUT,DF,Bologna,27,1997,5.1,13,2.53,9,3,0,0,1,0,0,0.0,0,0,0,0,0,0
+363,Matteo Prati,ITA,MF,Cagliari,20,2003,1.9,3,1.54,3,0,0,0,0,0,1,0.51,1,0,0,0,0,0
+364,Ivan Provedel,ITA,GK,Lazio,30,1994,6.0,1,0.17,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+365,Christian Pulisic,USA,"FW,MF",Milan,26,1998,5.2,25,4.85,17,4,1,1,1,1,3,0.58,0,2,0,0,0,1
+366,Hamza Rafia,TUN,MF,Lecce,25,1999,2.2,12,5.4,10,1,0,0,0,1,0,0.0,0,0,0,0,0,0
+367,Antonio Raimondo,ITA,FW,Venezia,20,2004,0.8,2,2.5,2,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+368,Ylber Ramadani,ALB,MF,Lecce,28,1996,5.7,14,2.48,14,0,0,0,0,0,1,0.18,1,0,0,0,0,0
+369,Luca Ranieri,ITA,DF,Fiorentina,25,1999,4.4,4,0.91,4,0,0,0,0,0,1,0.23,1,0,0,0,0,0
+370,Giacomo Raspadori,ITA,"FW,MF",Napoli,24,2000,2.2,9,4.18,5,1,2,0,1,0,1,0.46,0,0,0,0,1,0
+371,Federico Ravaglia,ITA,GK,Bologna,24,1999,1.0,1,1.0,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+372,Ante Rebić,CRO,"FW,MF",Lecce,31,1993,2.2,11,5.03,5,5,0,0,1,0,0,0.0,0,0,0,0,0,0
+373,Tijjani Reijnders,NED,MF,Milan,26,1998,4.8,17,3.53,11,1,3,2,0,0,5,1.04,2,1,0,2,0,0
+374,Pepe Reina,ESP,GK,Como,42,1982,3.0,1,0.33,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+375,Mateo Retegui,ITA,FW,Atalanta,25,1999,4.4,12,2.76,8,0,1,2,1,0,3,0.69,1,0,0,1,1,0
+376,Samuele Ricci,ITA,MF,Torino,23,2001,5.7,14,2.48,13,1,0,0,0,0,1,0.18,1,0,0,0,0,0
+377,Amir Richardson,MAR,MF,Fiorentina,22,2002,1.2,2,1.7,1,0,1,0,0,0,0,0.0,0,0,0,0,0,0
+378,Sergi Roberto,ESP,MF,Como,32,1992,3.5,14,3.97,10,3,0,1,0,0,1,0.28,1,0,0,0,0,0
+379,Alessio Romagnoli,ITA,DF,Lazio,29,1995,5.0,4,0.8,4,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+380,Marten de Roon,NED,"DF,MF",Atalanta,33,1991,6.0,10,1.67,9,1,0,0,0,0,1,0.17,1,0,0,0,0,0
+381,Jonas Rouhi,SWE,DF,Juventus,20,2004,1.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+382,Nicolò Rovella,ITA,MF,Lazio,22,2001,3.9,5,1.27,3,0,1,0,0,1,0,0.0,0,0,0,0,0,0
+383,Amir Rrahmani,KVX,DF,Napoli,30,1994,6.0,5,0.83,4,1,0,0,0,0,1,0.17,0,1,0,0,0,0
+384,Matteo Ruggeri,ITA,DF,Atalanta,22,2002,4.6,5,1.08,4,1,0,0,0,0,1,0.22,1,0,0,0,0,0
+385,Stefano Sabelli,ITA,DF,Genoa,31,1993,3.3,4,1.22,4,0,0,0,0,0,1,0.31,1,0,0,0,0,0
+386,Alexis Saelemaekers,BEL,"FW,DF",Roma,25,1999,1.2,3,2.48,3,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+387,Alexis Saelemaekers,BEL,"DF,FW",Milan,25,1999,1.0,9,9.0,6,3,0,0,0,0,0,0.0,0,0,0,0,0,0
+388,Richie Sagrado,BEL,DF,Venezia,20,2004,0.6,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+389,Marco Sala,ITA,DF,Como,25,1999,1.0,1,0.98,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+390,Lazar Samardzic,SRB,"MF,FW",Atalanta,22,2002,2.2,18,8.35,11,4,1,2,0,0,0,0.0,0,0,0,0,0,0
+391,Antonio Sanabria,PAR,"FW,MF",Torino,28,1996,2.4,4,1.67,3,0,0,0,1,0,0,0.0,0,0,0,0,0,0
+392,Amin Sarr,SWE,FW,Hellas Verona,23,2001,0.3,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+393,Nicolò Savona,ITA,DF,Juventus,21,2003,3.5,3,0.85,3,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+394,Saba Sazonov,GEO,DF,Torino,22,2002,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+395,Joël Schingtienne,BEL,DF,Venezia,22,2002,1.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+396,Simone Scuffet,ITA,GK,Cagliari,28,1996,5.0,1,0.2,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+397,Suat Serdar,GER,MF,Hellas Verona,27,1997,0.2,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+398,Stephan El Shaarawy,ITA,DF,Roma,31,1992,2.6,8,3.08,7,0,0,1,0,0,2,0.77,2,0,0,0,0,0
+399,Eldor Shomurodov,UZB,"FW,DF",Roma,29,1995,0.4,3,8.18,2,0,0,1,0,0,0,0.0,0,0,0,0,0,0
+400,Giovanni Simeone,ARG,FW,Napoli,29,1995,1.5,3,2.01,2,0,0,0,1,0,0,0.0,0,0,0,0,0,0
+401,Łukasz Skorupski,POL,GK,Bologna,33,1991,5.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+402,Simon Sohm,SUI,MF,Parma,23,2001,3.6,7,1.92,6,0,0,1,0,0,0,0.0,0,0,0,0,0,0
+403,Ola Solbakken,NOR,"MF,FW",Empoli,26,1998,2.2,4,1.84,3,0,1,0,0,0,0,0.0,0,0,0,0,0,0
+404,Yann Sommer,SUI,GK,Inter,35,1988,6.0,1,0.17,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+405,Borna Sosa,CRO,DF,Torino,26,1998,2.8,2,0.71,2,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+406,Riccardo Sottil,ITA,"MF,FW",Fiorentina,25,1999,0.7,1,1.43,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+407,Matìas Soulé,ARG,"FW,MF",Roma,21,2003,3.5,16,4.54,10,4,0,1,1,0,0,0.0,0,0,0,0,0,0
+408,Leonardo Spinazzola,ITA,DF,Napoli,31,1993,1.9,4,2.08,2,1,1,0,0,0,1,0.52,1,0,0,0,0,0
+409,Petar Stojanović,SVN,MF,Empoli,28,1995,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+410,Gabriel Strefezza,BRA,"MF,FW",Como,27,1997,5.7,22,3.85,16,4,0,1,0,1,1,0.18,1,0,0,0,0,0
+411,Ibrahim Sulemana,GHA,MF,Atalanta,21,2003,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+412,Tomáš Suslov,SVK,"FW,MF",Hellas Verona,22,2002,2.7,6,2.2,4,0,1,0,0,1,1,0.37,0,0,0,0,0,1
+413,Zion Suzuki,JPN,GK,Parma,22,2002,3.8,1,0.26,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+414,Marin Šverko,CRO,DF,Venezia,26,1998,3.0,3,1.01,3,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+415,Mile Svilar,SRB,GK,Roma,25,1999,6.0,2,0.33,2,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+416,Michael Svoboda,AUT,DF,Venezia,25,1998,5.3,8,1.52,8,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+417,Adrien Tameze,CMR,"MF,DF",Torino,30,1994,2.7,3,1.13,3,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+418,Mehdi Taremi,IRN,"FW,MF",Inter,32,1992,1.9,7,3.73,6,0,0,1,0,0,2,1.07,1,0,0,1,0,0
+419,Nuno Tavares,POR,DF,Lazio,24,2000,3.7,18,4.82,11,3,1,1,2,0,7,1.87,4,1,1,0,1,0
+420,Loum Tchaouna,FRA,"FW,MF",Lazio,21,2003,1.6,5,3.08,4,0,0,0,0,1,0,0.0,0,0,0,0,0,0
+421,Jackson Tchatchoua,CMR,"MF,DF",Hellas Verona,23,2001,6.0,11,1.85,9,2,0,0,0,0,1,0.17,1,0,0,0,0,0
+422,Casper Tengstedt,DEN,FW,Hellas Verona,24,2000,4.4,5,1.12,3,0,0,0,2,0,1,0.22,1,0,0,0,0,0
+423,Filippo Terracciano,ITA,DF,Milan,21,2003,1.0,2,2.0,1,1,0,0,0,0,0,0.0,0,0,0,0,0,0
+424,Pietro Terracciano,ITA,GK,Fiorentina,34,1990,3.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+425,Florian Thauvin,FRA,"MF,FW",Udinese,31,1993,5.0,19,3.81,14,2,1,1,0,1,3,0.6,2,0,0,1,0,0
+426,Malick Thiaw,GER,DF,Milan,23,2001,1.0,1,1.0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0
+427,Morten Thorsby,NOR,"MF,DF",Genoa,28,1996,1.5,5,3.31,4,0,0,0,1,0,0,0.0,0,0,0,0,0,0
+428,Khéphren Thuram,FRA,MF,Juventus,23,2001,1.3,2,1.53,2,0,0,0,0,0,1,0.76,1,0,0,0,0,0
+429,Marcus Thuram,FRA,FW,Inter,27,1997,5.3,14,2.62,12,0,0,0,2,0,4,0.75,3,0,0,0,1,0
+430,Rafael Tolói,ITA,DF,Atalanta,33,1990,0.4,1,2.73,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+431,Fikayo Tomori,ENG,DF,Milan,26,1997,5.0,3,0.6,3,0,0,0,0,0,1,0.2,1,0,0,0,0,0
+432,Souleymane Touré,FRA,DF,Udinese,21,2003,1.2,1,0.85,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+433,Stefano Turati,ITA,GK,Monza,23,2001,4.0,1,0.25,0,1,0,0,0,0,0,0.0,0,0,0,0,0,0
+434,Kacper Urbanski,POL,"MF,FW",Bologna,20,2004,1.5,5,3.44,5,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+435,Emanuele Valeri,ITA,DF,Parma,25,1998,2.1,4,1.93,3,0,0,0,0,1,3,1.44,3,0,0,0,0,0
+436,Ignace Van Der Brempt,BEL,DF,Como,22,2002,2.5,6,2.4,5,0,0,0,1,0,1,0.4,1,0,0,0,0,0
+437,Devis Vásquez,COL,GK,Empoli,26,1998,6.0,1,0.17,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+438,Johan Vásquez,MEX,DF,Genoa,25,1998,5.3,7,1.31,6,1,0,0,0,0,0,0.0,0,0,0,0,0,0
+439,Matías Vecino,URU,MF,Lazio,33,1991,1.7,3,1.81,3,0,0,0,0,0,1,0.6,1,0,0,0,0,0
+440,Simone Verdi,ITA,MF,Como,32,1992,0.3,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+441,Samuele Vignato,ITA,MF,Monza,20,2004,1.2,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+442,Nicolas Viola,ITA,"FW,MF",Cagliari,34,1989,0.6,4,6.67,3,1,0,0,0,0,0,0.0,0,0,0,0,0,0
+443,Mattia Viti,ITA,DF,Empoli,22,2002,6.0,4,0.67,2,1,0,0,0,1,0,0.0,0,0,0,0,0,0
+444,Vitinha,POR,FW,Genoa,24,2000,4.6,13,2.83,9,1,1,0,2,0,1,0.22,1,0,0,0,0,0
+445,Dušan Vlahović,SRB,FW,Juventus,24,2000,5.4,4,0.74,2,0,0,1,1,0,0,0.0,0,0,0,0,0,0
+446,Vanja Vlahović,SRB,MF,Atalanta,20,2004,0.2,1,5.63,0,0,0,0,1,0,1,5.63,0,0,0,0,1,0
+447,Nikola Vlašić,CRO,FW,Torino,26,1997,0.3,1,3.21,1,0,0,0,0,0,1,3.21,1,0,0,0,0,0
+448,Alessandro Vogliacco,ITA,DF,Genoa,26,1998,2.7,3,1.13,2,0,0,1,0,0,0,0.0,0,0,0,0,0,0
+449,Mërgim Vojvoda,KVX,DF,Torino,29,1995,3.8,5,1.33,5,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+450,Stefan de Vrij,NED,DF,Inter,32,1992,1.2,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+451,Sebastian Walukiewicz,POL,DF,Torino,24,2000,1.7,3,1.76,3,0,0,0,0,0,1,0.59,1,0,0,0,0,0
+452,Sebastian Walukiewicz,POL,DF,Empoli,24,2000,2.0,4,2.0,4,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+453,Timothy Weah,USA,FW,Juventus,24,2000,1.3,2,1.58,2,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+454,Mateusz Wieteska,POL,DF,Cagliari,27,1997,1.0,1,1.0,0,0,0,0,0,1,0,0.0,0,0,0,0,0,0
+455,John Yeboah,ECU,"MF,FW",Venezia,24,2000,0.6,1,1.84,1,0,0,0,0,0,1,1.84,1,0,0,0,0,0
+456,Kenan Yıldız,TUR,"FW,MF",Juventus,19,2005,5.5,20,3.61,14,2,2,1,1,0,3,0.54,3,0,0,0,0,0
+457,Mattia Zaccagni,ITA,"FW,MF",Lazio,29,1995,5.7,24,4.19,11,9,0,2,2,0,3,0.52,2,1,0,0,0,0
+458,Nicola Zalewski,POL,"FW,DF",Roma,22,2002,1.6,9,5.66,9,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+459,Andre-Frank Zambo Anguissa,CMR,MF,Napoli,28,1995,6.0,10,1.67,9,0,0,1,0,0,1,0.17,1,0,0,0,0,0
+460,Francesco Zampano,ITA,DF,Venezia,31,1993,6.0,6,1.0,5,0,0,0,1,0,0,0.0,0,0,0,0,0,0
+461,Nicolò Zaniolo,ITA,"FW,MF",Atalanta,25,1999,0.4,5,13.64,3,0,0,2,0,0,1,2.73,1,0,0,0,0,0
+462,Alessandro Zanoli,ITA,DF,Genoa,23,2000,2.4,2,0.83,2,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+463,Duván Zapata,COL,FW,Torino,33,1991,5.6,19,3.4,13,0,1,3,1,1,1,0.18,0,0,0,1,0,0
+464,Gabriele Zappa,ITA,DF,Cagliari,24,1999,4.5,7,1.56,7,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+465,Davide Zappacosta,ITA,DF,Atalanta,32,1992,3.5,10,2.89,9,0,0,1,0,0,1,0.29,1,0,0,0,0,0
+466,Oier Zarraga,ESP,MF,Udinese,25,1999,1.4,3,2.16,2,0,0,1,0,0,0,0.0,0,0,0,0,0,0
+467,Jordan Zemura,ZIM,DF,Udinese,24,1999,2.4,2,0.83,2,0,0,0,0,0,1,0.41,1,0,0,0,0,0
+468,Kevin Zeroli,ITA,MF,Milan,19,2005,0.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+469,Piotr Zieliński,POL,MF,Inter,30,1994,0.6,6,9.31,5,1,0,0,0,0,0,0.0,0,0,0,0,0,0
+470,Nadir Zortea,ITA,DF,Cagliari,25,1999,1.4,5,3.69,4,0,1,0,0,0,0,0.0,0,0,0,0,0,0
+471,Milan Đurić,BIH,FW,Monza,34,1990,3.9,1,0.26,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0

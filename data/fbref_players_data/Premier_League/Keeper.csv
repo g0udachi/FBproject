@@ -1,0 +1,31 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Playing Time,Playing Time,Playing Time,Playing Time,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Penalty Kicks,Penalty Kicks,Penalty Kicks,Penalty Kicks,Penalty Kicks,Unnamed: 26_level_0
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,GA,GA90,SoTA,Saves,Save%,W,D,L,CS,CS%,PKatt,PKA,PKsv,PKm,Save%,Matches
+1,Alisson,br BRA,GK,Liverpool,31-364,1992,5,5,450,5.0,2,0.40,13,11,84.6,4,0,1,3,60.0,0,0,0,0,,Matches
+2,Alphonse Areola,fr FRA,GK,West Ham,31-216,1993,6,6,495,5.5,9,1.64,23,14,60.9,1,2,3,1,16.7,0,0,0,0,,Matches
+3,Kepa Arrizabalaga,es ESP,GK,Bournemouth,29-363,1994,2,2,180,2.0,5,2.50,20,15,75.0,1,0,1,0,0.0,0,0,0,0,,Matches
+4,Ederson,br BRA,GK,Manchester City,31-044,1993,6,6,540,6.0,6,1.00,18,13,72.2,4,2,0,1,16.7,1,1,0,0,0.0,Matches
+5,Łukasz Fabiański,pl POL,GK,West Ham,39-165,1985,1,0,45,0.5,1,2.00,3,2,66.7,0,0,0,0,,0,0,0,0,,Matches
+6,Mark Flekken,nl NED,GK,Brentford,31-109,1993,6,6,540,6.0,10,1.67,39,30,74.4,2,1,3,0,0.0,0,0,0,0,,Matches
+7,Dean Henderson,eng ENG,GK,Crystal Palace,27-202,1997,6,6,540,6.0,9,1.50,27,18,66.7,0,3,3,1,16.7,0,0,0,0,,Matches
+8,Mads Hermansen,dk DEN,GK,Leicester City,24-081,2000,6,6,540,6.0,12,2.00,42,31,73.8,0,3,3,0,0.0,1,1,0,0,0.0,Matches
+9,Sam Johnstone,eng ENG,GK,Wolves,31-189,1993,4,4,360,4.0,8,2.00,20,12,65.0,0,1,3,0,0.0,1,1,0,0,0.0,Matches
+10,Caoimhín Kelleher,ie IRL,GK,Liverpool,25-312,1998,1,1,90,1.0,0,0.00,6,6,100.0,1,0,0,1,100.0,0,0,0,0,,Matches
+11,Bernd Leno,de GER,GK,Fulham,32-210,1992,6,6,540,6.0,5,0.83,22,17,77.3,3,2,1,1,16.7,0,0,0,0,,Matches
+12,Emiliano Martínez,ar ARG,GK,Aston Villa,32-028,1992,6,6,540,6.0,9,1.50,21,12,61.9,4,1,1,0,0.0,1,1,0,0,0.0,Matches
+13,Alex McCarthy,eng ENG,GK,Southampton,34-302,1989,2,2,180,2.0,2,1.00,9,7,77.8,0,0,2,0,0.0,0,0,0,0,,Matches
+14,Arijanet Muric,xk KVX,GK,Ipswich Town,25-328,1998,5,5,450,5.0,8,1.60,21,13,66.7,0,4,1,1,20.0,1,1,0,0,0.0,Matches
+15,Neto,br BRA,GK,Bournemouth,35-073,1989,2,2,180,2.0,2,1.00,13,11,84.6,0,2,0,0,0.0,0,0,0,0,,Matches
+16,André Onana,cm CMR,GK,Manchester Utd,28-181,1996,6,6,540,6.0,8,1.33,26,17,69.2,2,1,3,3,50.0,1,0,1,0,100.0,Matches
+17,Jordan Pickford,eng ENG,GK,Everton,30-207,1994,6,6,540,6.0,15,2.50,32,17,53.1,1,1,4,0,0.0,0,0,0,0,,Matches
+18,Nick Pope,eng ENG,GK,Newcastle Utd,32-164,1992,6,6,540,6.0,7,1.17,35,29,80.0,3,2,1,1,16.7,0,0,0,0,,Matches
+19,Aaron Ramsdale,eng ENG,GK,Southampton,26-139,1998,3,3,270,3.0,7,2.33,23,16,69.6,0,1,2,0,0.0,0,0,0,0,,Matches
+20,David Raya,es ESP,GK,Arsenal,29-015,1995,6,6,540,6.0,5,0.83,29,24,82.8,4,2,0,3,50.0,0,0,0,0,,Matches
+21,José Sá,pt POR,GK,Wolves,31-257,1993,2,2,180,2.0,8,4.00,14,6,42.9,0,0,2,0,0.0,0,0,0,0,,Matches
+22,Robert Sánchez,es ESP,GK,Chelsea,26-317,1997,6,6,540,6.0,7,1.17,31,23,77.4,4,1,1,2,33.3,1,0,1,0,100.0,Matches
+23,Matz Sels,be BEL,GK,Nott'ham Forest,32-217,1992,6,6,540,6.0,5,0.83,17,12,76.5,2,3,1,2,33.3,1,1,0,0,0.0,Matches
+24,Jason Steele,eng ENG,GK,Brighton,34-043,1990,2,2,180,2.0,1,0.50,4,3,75.0,2,0,0,1,50.0,0,0,0,0,,Matches
+25,Mark Travers,ie IRL,GK,Bournemouth,25-135,1999,1,1,90,1.0,1,1.00,3,2,66.7,0,0,1,0,0.0,0,0,0,0,,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,GA,GA90,SoTA,Saves,Save%,W,D,L,CS,CS%,PKatt,PKA,PKsv,PKm,Save%,Matches
+26,Bart Verbruggen,nl NED,GK,Brighton,22-043,2002,4,4,360,4.0,7,1.75,17,10,70.6,0,3,1,1,25.0,2,2,0,0,0.0,Matches
+27,Guglielmo Vicario,it ITA,GK,Tottenham,27-359,1996,6,6,540,6.0,5,0.83,19,14,73.7,3,1,2,2,33.3,0,0,0,0,,Matches
+28,Christian Walton,eng ENG,GK,Ipswich Town,28-326,1995,1,1,90,1.0,2,2.00,5,3,60.0,0,0,1,0,0.0,0,0,0,0,,Matches
